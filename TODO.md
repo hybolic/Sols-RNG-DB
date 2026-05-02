@@ -8,7 +8,22 @@
   - requirements
   - reward
 
-### BIOMES
+### AURAS
+
+- wiki link
+- name
+- rarity
+  - standard/Unobtainable/Crafted
+  - native
+- native biome (*eg, BIOME1|BIOME2*)
+- title
+- abilities
+  - name
+  - key
+- music
+- creator
+
+### BIOME
 
 - name
   - chance
@@ -56,6 +71,13 @@
   - type
   - dialogs
 
+### POTION EFFECTS
+
+- name
+  - description
+  - details
+
+
 ### QUESTS
 
 NOTE: NOT DAILY QUESTS
@@ -64,24 +86,3 @@ NOTE: NOT DAILY QUESTS
   - quest
     - description
     - requirements
-
-### AURAS
-
-- wiki link
-- name
-- rarity
-  - standard/Unobtainable/Crafted
-  - native
-- native biome (*eg, BIOME1|BIOME2*)
-- title
-- abilities
-  - name
-  - key
-- music
-- creator
-
-### POTION EFFECTS
-
-- name
-  - description
-  - details
