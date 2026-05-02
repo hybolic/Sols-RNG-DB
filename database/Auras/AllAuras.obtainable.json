@@ -5,7 +5,13 @@
             400000000, 
             100000000
         ], 
-        "native" : "RAINY"
+        "native" : "RAINY", 
+        "Ability" : {
+            "Form Shift" : {
+                "Button" : "X", 
+                "Description" : "Switch between Shifter, Juggernaut and Destroyer Forms"
+            }
+        }
     }, 
     "Aegis" : {
         "Name" : "Aegis", 
@@ -13,7 +19,13 @@
             825000000, 
             412500000
         ], 
-        "native" : "CYBERSPACE"
+        "native" : "CYBERSPACE", 
+        "Ability" : {
+            "Obliterate" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Aether" : {
         "Name" : "Aether", 
@@ -102,19 +114,34 @@
         "Name" : "Arcane", 
         "rarity" : [
             1000000
-        ]
+        ], 
+        "Ability" : {
+            "Teleport" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Arcane_:_Dark" : {
         "Name" : "Arcane : Dark", 
         "rarity" : [
             30000000
-        ]
+        ], 
+        "Ability" : {
+            "Teleport" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Arcane_:_Legacy" : {
         "Name" : "Arcane : Legacy", 
         "rarity" : [
             15000000
-        ]
+        ], 
+        "Ability" : {
+            "Teleport" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Archangel" : {
         "Name" : "Archangel", 
@@ -122,7 +149,13 @@
             350000000, 
             70000000
         ], 
-        "native" : "HEAVEN"
+        "native" : "HEAVEN", 
+        "Ability" : {
+            "Holy Slash" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Archmage" : {
         "Name" : "Archmage", 
@@ -254,7 +287,13 @@
             300000000, 
             50000000
         ], 
-        "native" : "HELL"
+        "native" : "HELL", 
+        "Ability" : {
+            "Bloodthirst" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Borealis" : {
         "Name" : "Borealis", 
@@ -300,7 +339,14 @@
         "Name" : "Celestial : Divine", 
         "rarity" : [
             7000000
-        ]
+        ], 
+        "TItle" : "« CELESTIAL ✰ DIVINE »", 
+        "Ability" : {
+            "Divine Halo" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Celestial_:_Eclipse" : {
         "Name" : "Celestial : Eclipse", 
@@ -348,7 +394,13 @@
         "Name" : "Chromatic : Genesis", 
         "rarity" : [
             99999999
-        ]
+        ], 
+        "Ability" : {
+            "Divine Impact" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Chromatic_:_Hyper" : {
         "Name" : "Chromatic : Hyper", 
@@ -368,7 +420,14 @@
         "Name" : "Cola", 
         "rarity" : [
             3999
-        ]
+        ], 
+        "TItle" : "> Cola <", 
+        "Ability" : {
+            "Drink" : {
+                "Button" : "X", 
+                "Description" : "Heals Player for 15hp"
+            }
+        }
     }, 
     "Comet" : {
         "Name" : "Comet", 
@@ -410,13 +469,30 @@
         "Name" : "Cosmos", 
         "rarity" : [
             1520000
-        ]
+        ], 
+        "Ability" : {
+            "Claws of Galaxy" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Cosmos_:_Alice" : {
         "Name" : "Cosmos : Alice", 
         "rarity" : [
             3500000
-        ]
+        ], 
+        "Title" : "《 Alice 》", 
+        "Ability" : {
+            "Tidal Rush" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Vertical Waves" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Crystallized" : {
         "Name" : "Crystallized", 
@@ -536,7 +612,22 @@
         "rarity" : [
             2500000000
         ], 
-        "Title" : "『EQUINOX』"
+        "Title" : "『EQUINOX』", 
+        "Ability" : {
+            "Release" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "Confiscation" : {
+                "Button" : "T", 
+                "Damage" : true, 
+                "Description" : "Heals User"
+            }, 
+            "Extinction" : {
+                "Button" : "R", 
+                "Damage" : true
+            }
+        }
     }, 
     "Ethereal" : {
         "Name" : "Ethereal", 
@@ -562,7 +653,17 @@
         "Name" : "Exotic : Apex", 
         "rarity" : [
             49999500
-        ]
+        ], 
+        "Ability" : {
+            "Predator's Hunt" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Apex Rush" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Exotic_:_Void" : {
         "Name" : "Exotic : Void", 
@@ -706,7 +807,17 @@
         "Name" : "Glock", 
         "rarity" : [
             1700
-        ]
+        ], 
+        "Ability" : {
+            "Shoot" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Melee" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Good" : {
         "Name" : "Good", 
@@ -742,7 +853,13 @@
             6666666, 
             1111111
         ], 
-        "native" : "HELL"
+        "native" : "HELL", 
+        "Ability" : {
+            "Breathe of Flames" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Harnessed" : {
         "Name" : "Harnessed", 
@@ -754,7 +871,14 @@
         "Name" : "Harnessed : Elements", 
         "rarity" : [
             85000000
-        ]
+        ], 
+        "Title" : "⌊ HARNESSED : ELEMENTS ⌉", 
+        "Ability" : {
+            "Elemental Shift" : {
+                "Button" : "X", 
+                "Description" : "Changes Forms to Lightning, Fire, Snowy and Nature"
+            }
+        }
     }, 
     "Hazard" : {
         "Name" : "Hazard", 
@@ -825,7 +949,26 @@
             "Unobtainable", 
             10000000
         ], 
-        "native" : "CYBERSPACE"
+        "native" : "CYBERSPACE", 
+        "Title" : "illusionary", 
+        "Ability" : {
+            "you are a puppet." : {
+                "Button" : "V", 
+                "Damage" : true
+            }, 
+            "you belong here." : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "wake up." : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "no, not yet." : {
+                "Button" : "R", 
+                "Damage" : true
+            }
+        }
     }, 
     "Impeached" : {
         "Name" : "Impeached", 
@@ -834,7 +977,13 @@
             40000000
         ], 
         "native" : "CORRUPTION", 
-        "Title" : "IMPEACHED"
+        "Title" : "IMPEACHED", 
+        "Ability" : {
+            "Corrupted Greatsword" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Ink" : {
         "Name" : "Ink", 
@@ -846,7 +995,20 @@
         "Name" : "Ink : Leak", 
         "rarity" : [
             14000
-        ]
+        ], 
+        "Ability" : {
+            "Splash SLash" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Ink Blaster" : {
+                "Button" : "X", 
+                "Damage" : true
+            }, 
+            "Dyed-n-Seek" : {
+                "Button" : "R"
+            }
+        }
     }, 
     "Jackpot" : {
         "Name" : "Jackpot", 
@@ -955,7 +1117,29 @@
         "Name" : "Luminosity", 
         "rarity" : [
             1200000000
-        ]
+        ], 
+        "Title" : "[ LUMINOSITY ]", 
+        "Ability" : {
+            "Blinding Witness" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Prism" : {
+                "Button" : "T", 
+                "Damage" : true
+            }, 
+            "Lightspeed" : {
+                "Button" : "Q"
+            }, 
+            "Brilliance" : {
+                "Button" : "R", 
+                "Damage" : true
+            }, 
+            "Annihilate" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Lunar" : {
         "Name" : "Lunar", 
@@ -1055,7 +1239,16 @@
         "rarity" : [
             100
         ], 
-        "native" : "Oblivion Effect"
+        "native" : "Oblivion Effect", 
+        "Ability" : {
+            "Memory of Fighter" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Memory of Swordman" : {
+                "Button" : "E"
+            }
+        }
     }, 
     "Metabytes" : {
         "Name" : "Metabytes", 
@@ -1063,7 +1256,18 @@
             4000000, 
             2000000
         ], 
-        "native" : "CYBERSPACE"
+        "native" : "CYBERSPACE", 
+        "Title" : "METABYTES", 
+        "Ability" : {
+            "MetaCharge" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "VirtualPunch" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Monarch" : {
         "Name" : "Monarch", 
@@ -1096,7 +1300,13 @@
         "rarity" : [
             1000
         ], 
-        "native" : "Potion of the Dunes Effect"
+        "native" : "Potion of the Dunes Effect", 
+        "Ability" : {
+            "Earthquake" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Nihility" : {
         "Name" : "Nihility", 
@@ -1126,7 +1336,13 @@
             2000
         ], 
         "native" : "Oblivion Effect", 
-        "Title" : "OBLIVION"
+        "Title" : "OBLIVION", 
+        "Ability" : {
+            "Scream" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Oculus" : {
         "Name" : "Oculus", 
@@ -1178,13 +1394,24 @@
         "Name" : "Overture", 
         "rarity" : [
             150000000
-        ]
+        ], 
+        "Ability" : {
+            "Time Stop" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Overture_:_History" : {
         "Name" : "Overture : History", 
         "rarity" : [
             300000000
-        ]
+        ], 
+        "Title" : "OVERTURE I HISTORY", 
+        "Ability" : {
+            "Time Stop" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Parasite" : {
         "Name" : "Parasite", 
@@ -1215,7 +1442,21 @@
             536870912
         ], 
         "native" : "CYBERSPACE", 
-        "Title" : "▣ PIXELATION ▣"
+        "Title" : "▣ PIXELATION ▣", 
+        "Ability" : {
+            "Shoot Command" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "Pixelated Edges" : {
+                "Button" : "I", 
+                "Damage" : true
+            }, 
+            "Mania!" : {
+                "Button" : "T", 
+                "Damage" : true
+            }
+        }
     }, 
     "Plasma" : {
         "Name" : "Plasma", 
@@ -1338,7 +1579,13 @@
         "Name" : "Rage : Brawler", 
         "rarity" : [
             1280000
-        ]
+        ], 
+        "Ability" : {
+            "Raging Fist" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Rage_:_Heated" : {
         "Name" : "Rage : Heated", 
@@ -1410,7 +1657,17 @@
         "Name" : "Runic", 
         "rarity" : [
             50000000
-        ]
+        ], 
+        "Ability" : {
+            "Runic Burst" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "Ancient Pillars" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Sailor" : {
         "Name" : "Sailor", 

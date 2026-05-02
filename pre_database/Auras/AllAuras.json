@@ -5,7 +5,13 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Title": "A fool's experience..."
+        "Title": "A fool's experience...",
+        "Ability":{
+            "GET RARE AURA!!!!!!!!!!":{
+                "Button":"X",
+                "Description":"Rolls Miniature versions of Auras"
+            }
+        }
     },
     "Abominable": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Abominable",
@@ -28,7 +34,13 @@
             400000000,
             100000000
         ],
-        "native": "RAINY"
+        "native": "RAINY",
+        "Ability":{
+            "Form Shift":{
+                "Button":"X",
+                "Description":"Switch between Shifter, Juggernaut and Destroyer Forms"
+            }
+        }
     },
     "Accursed": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Accursed",
@@ -44,14 +56,26 @@
             825000000,
             412500000
         ],
-        "native": "CYBERSPACE"
+        "native": "CYBERSPACE",
+        "Ability":{
+            "Obliterate":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Aegis_:_Watergun": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Aegis_:_Watergun",
         "Name": "Aegis : Watergun",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Obliterate":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Aeroquest": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Aeroquest",
@@ -210,21 +234,36 @@
         "Name": "Arcane",
         "rarity": [
             1000000
-        ]
+        ],
+        "Ability":{
+            "Teleport":{
+                "Button":"X"
+            }
+        }
     },
     "Arcane_:_Dark": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Arcane_:_Dark",
         "Name": "Arcane : Dark",
         "rarity": [
             30000000
-        ]
+        ],
+        "Ability":{
+            "Teleport":{
+                "Button":"X"
+            }
+        }
     },
     "Arcane_:_Legacy": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Arcane_:_Legacy",
         "Name": "Arcane : Legacy",
         "rarity": [
             15000000
-        ]
+        ],
+        "Ability":{
+            "Teleport":{
+                "Button":"X"
+            }
+        }
     },
     "Archangel": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Archangel",
@@ -233,7 +272,13 @@
             350000000,
             70000000
         ],
-        "native": "HEAVEN"
+        "native": "HEAVEN",
+        "Ability":{
+            "Holy Slash":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Archmage": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Archmage",
@@ -380,7 +425,13 @@
         "Name": "Bioluminescent",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Rain of Spear":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Bleeding": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Bleeding",
@@ -428,21 +479,47 @@
             300000000,
             50000000
         ],
-        "native": "HELL"
+        "native": "HELL",
+        "Ability":{
+            "Bloodthirst":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Blossom": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Blossom",
         "Name": "Blossom",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Blooming":{
+                "Button":"X",
+                "Damage":true
+            },
+            "Petalwind":{
+                "Button":"Q",
+                "Description":"Teleport"
+            }
+        }
     },
     "Blossom_:_Frozen": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Blossom_:_Frozen",
         "Name": "Blossom : Frozen",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Below Zero":{
+                "Button":"X",
+                "Damage":true
+            },
+            "Absolute Zero":{
+                "Button":"Q",
+                "Damage":true
+            }
+        }
     },
     "Borealis": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Borealis",
@@ -531,7 +608,14 @@
         "Name": "Celestial : Divine",
         "rarity": [
             7000000
-        ]
+        ],
+        "TItle":"« CELESTIAL ✰ DIVINE »",
+        "Ability":{
+            "Divine Halo":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Celestial_:_Eclipse": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Celestial_:_Eclipse",
@@ -593,7 +677,13 @@
         "Name": "Chromatic : Genesis",
         "rarity": [
             99999999
-        ]
+        ],
+        "Ability":{
+            "Divine Impact":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Chromatic_:_Hyper": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Chromatic_:_Hyper",
@@ -623,7 +713,14 @@
         "Name": "Cola",
         "rarity": [
             3999
-        ]
+        ],
+        "TItle":"> Cola <",
+        "Ability":{
+            "Drink":{
+                "Button":"X",
+                "Description":"Heals Player for 15hp"
+            }
+        }
     },
     "Comet": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Comet",
@@ -701,14 +798,31 @@
         "Name": "Cosmos",
         "rarity": [
             1520000
-        ]
+        ],
+        "Ability":{
+            "Claws of Galaxy":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Cosmos_:_Alice": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Cosmos_:_Alice",
         "Name": "Cosmos : Alice",
         "rarity": [
             3500000
-        ]
+        ],
+        "Title":"《 Alice 》",
+        "Ability":{
+            "Tidal Rush":{
+                "Button":"F",
+                "Damage":true
+            },
+            "Vertical Waves":{
+                "Button":"E",
+                "Damage":true
+            }
+        }
     },
     "Crimson": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Crimson",
@@ -736,7 +850,21 @@
         "Name": "Cryogenic",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Frost Combo":{
+                "Button":"Z"
+            },
+            "Arrow of Frostbite":{
+                "Button":"F"
+            },
+            "Froststep":{
+                "Button":"Q"
+            },
+            "Froststorm Slashes":{
+                "Button":"E"
+            }
+        }
     },
     "Cryptfire": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Cryptfire",
@@ -994,7 +1122,22 @@
         "rarity": [
             2500000000
         ],
-        "Title": "『EQUINOX』"
+        "Title": "『EQUINOX』",
+        "Ability":{
+            "Release":{
+                "Button":"E",
+                "Damage":true
+            },
+            "Confiscation":{
+                "Button":"T",
+                "Damage":true,
+                "Description":"Heals User"
+            },
+            "Extinction":{
+                "Button":"R",
+                "Damage":true
+            }
+        }
     },
     "Equinox_:_You_Are_An_Idiot": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Equinox_:_You_Are_An_Idiot",
@@ -1047,7 +1190,17 @@
         "Name": "Exotic : Apex",
         "rarity": [
             49999500
-        ]
+        ],
+        "Ability":{
+            "Predator's Hunt":{
+                "Button":"F",
+                "Damage":true
+            },
+            "Apex Rush":{
+                "Button":"E",
+                "Damage":true
+            }
+        }
     },
     "Exotic_:_Void": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Exotic_:_Void",
@@ -1196,7 +1349,14 @@
         "Name": "Frigid",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Title":"+ Frigid +",
+        "Ability":{
+            "Frozen Spikes":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Frostwood": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Frostwood",
@@ -1270,14 +1430,30 @@
         "Name": "Glock",
         "rarity": [
             1700
-        ]
+        ],
+        "Ability":{
+            "Shoot":{
+                "Button":"F",
+                "Damage":true
+            },
+            "Melee":{
+                "Button":"E",
+                "Damage":true
+            }
+        }
     },
     "Glock_:_the_glock_of_the_sky": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Glock_:_the_glock_of_the_sky",
         "Name": "Glock : the glock of the sky",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Shoot":{
+                "Button":"F",
+                "Description":"Kills Player with 10k damage"
+            }
+        }
     },
     "Godslayer": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Godslayer",
@@ -1339,7 +1515,13 @@
             6666666,
             1111111
         ],
-        "native": "HELL"
+        "native": "HELL",
+        "Ability":{
+            "Breathe of Flames":{
+                "Button":"F",
+                "Damage":true
+            }
+        }
     },
     "Harnessed": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Harnessed",
@@ -1353,7 +1535,14 @@
         "Name": "Harnessed : Elements",
         "rarity": [
             85000000
-        ]
+        ],
+        "Title":"⌊ HARNESSED : ELEMENTS ⌉",
+        "Ability":{
+            "Elemental Shift":{
+                "Button":"X",
+                "Description":"Changes Forms to Lightning, Fire, Snowy and Nature"
+            }
+        }
     },
     "Harvester": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Harvester",
@@ -1469,7 +1658,26 @@
             "Unobtainable",
             10000000
         ],
-        "native": "CYBERSPACE"
+        "native": "CYBERSPACE",
+        "Title":"illusionary",
+        "Ability":{
+            "you are a puppet.":{
+                "Button":"V",
+                "Damage":true
+            },
+            "you belong here.":{
+                "Button":"F",
+                "Damage":true
+            },
+            "wake up.":{
+                "Button":"E",
+                "Damage":true
+            },
+            "no, not yet.":{
+                "Button":"R",
+                "Damage":true
+            }
+        }
     },
     "Impeached": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Impeached",
@@ -1479,7 +1687,13 @@
             40000000
         ],
         "native": "CORRUPTION",
-        "Title": "IMPEACHED"
+        "Title": "IMPEACHED",
+        "Ability":{
+            "Corrupted Greatsword":{
+                "Button":"F",
+                "Damage":true
+            }
+        }
     },
     "Impeached_:_i'm_peach": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Impeached_:_i'm_peach",
@@ -1487,7 +1701,13 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Title": "i'm peach"
+        "Title": "i'm peach",
+        "Ability":{
+            "UNKNOWN NAME NEEDS FINDING":{
+                "Button":"F",
+                "Damage":true
+            }
+        }
     },
     "Impeached_:_Imcrine": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Impeached_:_Imcrine",
@@ -1495,7 +1715,17 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Title": "IMCRINE"
+        "Title": "IMCRINE",
+        "Ability":{
+            "😭":{
+                "Button":"F",
+                "Damage":true
+            },
+            "Loudly Crying Face Emoji":{
+                "Button":"F",
+                "Damage":true
+            }
+        }
     },
     "Ink": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Ink",
@@ -1509,7 +1739,20 @@
         "Name": "Ink : Leak",
         "rarity": [
             14000
-        ]
+        ],
+        "Ability":{
+            "Splash SLash":{
+                "Button":"F",
+                "Damage":true
+            },
+            "Ink Blaster":{
+                "Button":"X",
+                "Damage":true
+            },
+            "Dyed-n-Seek":{
+                "Button":"R"
+            }
+        }
     },
     "Ink_:_PaintballGun": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Ink_:_PaintballGun",
@@ -1701,7 +1944,29 @@
         "Name": "Luminosity",
         "rarity": [
             1200000000
-        ]
+        ],
+        "Title":"[ LUMINOSITY ]",
+        "Ability":{
+            "Blinding Witness":{
+                "Button":"F",
+                "Damage":true
+            },
+            "Prism":{
+                "Button":"T",
+                "Damage":true
+            },
+            "Lightspeed":{
+                "Button":"Q"
+            },
+            "Brilliance":{
+                "Button":"R",
+                "Damage":true
+            },
+            "Annihilate":{
+                "Button":"E",
+                "Damage":true
+            }
+        }
     },
     "Lunar": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Lunar",
@@ -1733,7 +1998,14 @@
         "Name": "Lunar : Nightfall",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Title":"Lunar ☾ Nightfall",
+        "Ability":{
+            "Night Impale":{
+                "Button":"F",
+                "Damage":true
+            }
+        }
     },
     "Lunatic": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Lunatic",
@@ -1857,7 +2129,16 @@
         "rarity": [
             100
         ],
-        "native": "Oblivion Effect"
+        "native": "Oblivion Effect",
+        "Ability":{
+            "Memory of Fighter":{
+                "Button":"F",
+                "Damage":true
+            },
+            "Memory of Swordman":{
+                "Button":"E"
+            }
+        }
     },
     "Metabytes": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Metabytes",
@@ -1866,7 +2147,18 @@
             4000000,
             2000000
         ],
-        "native": "CYBERSPACE"
+        "native": "CYBERSPACE",
+        "Title":"METABYTES",
+        "Ability":{
+            "MetaCharge":{
+                "Button":"F",
+                "Damage":true
+            },
+            "VirtualPunch":{
+                "Button":"E",
+                "Damage":true
+            }
+        }
     },
     "Monarch": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Monarch",
@@ -1918,7 +2210,13 @@
         "rarity": [
             1000
         ],
-        "native": "Potion of the Dunes Effect"
+        "native": "Potion of the Dunes Effect",
+        "Ability":{
+            "Earthquake":{
+                "Button":"F",
+                "Damage":true
+            }
+        }
     },
     "Nightmare_Sky": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Nightmare_Sky",
@@ -1980,7 +2278,13 @@
             2000
         ],
         "native": "Oblivion Effect",
-        "Title": "OBLIVION"
+        "Title": "OBLIVION",
+        "Ability":{
+            "Scream":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Oculus": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Oculus",
@@ -2053,14 +2357,25 @@
         "Name": "Overture",
         "rarity": [
             150000000
-        ]
+        ],
+        "Ability":{
+            "Time Stop":{
+                "Button":"X"
+            }
+        }
     },
     "Overture_:_History": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Overture_:_History",
         "Name": "Overture : History",
         "rarity": [
             300000000
-        ]
+        ],
+        "Title":"OVERTURE I HISTORY",
+        "Ability":{
+            "Time Stop":{
+                "Button":"X"
+            }
+        }
     },
     "Parasite": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Parasite",
@@ -2076,7 +2391,13 @@
         "Name": "Parasol",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Rush":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Parol": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Parol",
@@ -2116,7 +2437,21 @@
             536870912
         ],
         "native": "CYBERSPACE",
-        "Title": "▣ PIXELATION ▣"
+        "Title": "▣ PIXELATION ▣",
+        "Ability":{
+            "Shoot Command":{
+                "Button":"E",
+                "Damage":true
+            },
+            "Pixelated Edges":{
+                "Button":"I",
+                "Damage":true
+            },
+            "Mania!":{
+                "Button":"T",
+                "Damage":true
+            }
+        }
     },
     "Plasma": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Plasma",
@@ -2245,7 +2580,24 @@
         "Name": "Pukeko : P.U.K.E.K.O.G.O.D.",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "JumpEvent":{
+                "Button":"F",
+                "Damage":true
+            },
+            "Euruption":{
+                "Button":"E",
+                "Damage":true
+            },
+            "HealPad":{
+                "Button":"R"
+            },
+            "DeathBeamFX":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Pulsar": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Pulsar",
@@ -2306,7 +2658,13 @@
         "Name": "Rage : Brawler",
         "rarity": [
             1280000
-        ]
+        ],
+        "Ability":{
+            "Raging Fist":{
+                "Button":"X",
+                "Damage":true
+            }
+        }
     },
     "Rage_:_Heated": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Rage_:_Heated",
@@ -2381,7 +2739,25 @@
         "Name": "Reina",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "HooveStomp":{
+                "Button":"E",
+                "Damage":true
+            },
+            "BlizzardRush":{
+                "Button":"F",
+                "Damage":true
+            },
+            "IceCrush":{
+                "Button":"X",
+                "Damage":true
+            },
+            "PiercingCold":{
+                "Button":"R",
+                "Damage":true
+            }
+        }
     },
     "Revive": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Revive",
@@ -2425,7 +2801,17 @@
         "Name": "Runic",
         "rarity": [
             50000000
-        ]
+        ],
+        "Ability":{
+            "Runic Burst":{
+                "Button":"E",
+                "Damage":true
+            },
+            "Ancient Pillars":{
+                "Button":"F",
+                "Damage":true
+            }
+        }
     },
     "Sailor": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Sailor",
@@ -2466,7 +2852,12 @@
         "Name": "SandBasket",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Sand Wall":{
+                "Button":"E"
+            }
+        }
     },
     "Sandstorm_Egg": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Sandstorm_Egg",
@@ -2515,7 +2906,32 @@
         "Name": "Scorpion",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability":{
+            "Dash":{
+                "Button":"F"
+            },
+            "StabScorpion":{
+                "Button":"R",
+                "Damage":true
+            },
+            "Tailswing":{
+                "Button":"X",
+                "Damage":true
+            },
+            "Sandstorm Punch":{
+                "Button":"E",
+                "Damage":true
+            }
+        },
+        "#TODO CONTINUE HERE":{"":"https://sol-rng.fandom.com/wiki/Category:Has_Abilities",
+        "Ability":{
+            "Earthquake":{
+                "Button":"F",
+                "Damage":true
+            }
+        }
+        }
     },
     "Sentinel": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Sentinel",

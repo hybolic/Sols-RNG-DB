@@ -1,102 +1,112 @@
 {
     "A_Fool's_Experience" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/A_Fool's_Experience", 
         "Name" : "A Fool's Experience", 
         "rarity" : [
             "Unobtainable"
         ], 
-        "Title" : "A fool's experience..."
+        "Title" : "A fool's experience...", 
+        "Ability" : {
+            "GET RARE AURA!!!!!!!!!!" : {
+                "Button" : "X", 
+                "Description" : "Rolls Miniature versions of Auras"
+            }
+        }
     }, 
     "Abominable" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Abominable", 
         "Name" : "Abominable", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Abomination" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Abomination", 
         "Name" : "Abomination", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Abyssal_Hunter" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Abyssal_Hunter", 
         "Name" : "Abyssal Hunter", 
         "rarity" : [
             400000000, 
             100000000
         ], 
-        "native" : "RAINY"
+        "native" : "RAINY", 
+        "Ability" : {
+            "Form Shift" : {
+                "Button" : "X", 
+                "Description" : "Switch between Shifter, Juggernaut and Destroyer Forms"
+            }
+        }
     }, 
     "Accursed" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Accursed", 
         "Name" : "Accursed", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Aegis" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aegis", 
         "Name" : "Aegis", 
         "rarity" : [
             825000000, 
             412500000
         ], 
-        "native" : "CYBERSPACE"
+        "native" : "CYBERSPACE", 
+        "Ability" : {
+            "Obliterate" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Aegis_:_Watergun" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aegis_:_Watergun", 
         "Name" : "Aegis : Watergun", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Obliterate" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Aeroquest" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aeroquest", 
         "Name" : "Aeroquest", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Aether" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aether", 
         "Name" : "Aether", 
         "rarity" : [
             180000
         ]
     }, 
     "Aether_:_Disappointment" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aether_:_Disappointment", 
         "Name" : "Aether : Disappointment", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Afterparty" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Afterparty", 
         "Name" : "Afterparty", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Alchemist" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Alchemist", 
         "Name" : "Alchemist", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Amethyst" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Amethyst", 
         "Name" : "Amethyst", 
         "rarity" : [
             9333700
         ]
     }, 
     "Anima" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Anima", 
         "Name" : "Anima", 
         "rarity" : [
             "Unobtainable", 
@@ -105,14 +115,12 @@
         "native" : "LIMBO"
     }, 
     "Another_Realm" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Another_Realm", 
         "Name" : "Another Realm", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Antivirus" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Antivirus", 
         "Name" : "Antivirus", 
         "rarity" : [
             62500000, 
@@ -121,7 +129,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Anubis" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Anubis", 
         "Name" : "Anubis", 
         "rarity" : [
             7200000, 
@@ -130,21 +137,18 @@
         "native" : "SANDSTORM"
     }, 
     "Apatite" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Apatite", 
         "Name" : "Apatite", 
         "rarity" : [
             3133133
         ]
     }, 
     "Apocalypse" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Apocalypse", 
         "Name" : "Apocalypse", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Apostolos" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Apostolos", 
         "Name" : "Apostolos", 
         "rarity" : [
             444000000, 
@@ -153,14 +157,12 @@
         "native" : "THE CITADEL OF ORDERS"
     }, 
     "Apostolos_:_Veil" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Apostolos_:_Veil", 
         "Name" : "Apostolos : Veil", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Apotheosis" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Apotheosis", 
         "Name" : "Apotheosis", 
         "rarity" : [
             24691356
@@ -168,14 +170,12 @@
         "Title" : "APOTHEOSIS"
     }, 
     "Aquamarine" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aquamarine", 
         "Name" : "Aquamarine", 
         "rarity" : [
             900
         ]
     }, 
     "Aquaria" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aquaria", 
         "Name" : "Aquaria", 
         "rarity" : [
             80000000, 
@@ -184,21 +184,18 @@
         "native" : "RAINY"
     }, 
     "Aquatic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aquatic", 
         "Name" : "Aquatic", 
         "rarity" : [
             40000
         ]
     }, 
     "Aquatic_:_Flame" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aquatic_:_Flame", 
         "Name" : "Aquatic : Flame", 
         "rarity" : [
             4000000
         ]
     }, 
     "Arachnophobia" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Arachnophobia", 
         "Name" : "Arachnophobia", 
         "rarity" : [
             "Unobtainable"
@@ -206,44 +203,59 @@
         "Title" : "<ARACHNOPHOBIA>"
     }, 
     "Arcane" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Arcane", 
         "Name" : "Arcane", 
         "rarity" : [
             1000000
-        ]
+        ], 
+        "Ability" : {
+            "Teleport" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Arcane_:_Dark" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Arcane_:_Dark", 
         "Name" : "Arcane : Dark", 
         "rarity" : [
             30000000
-        ]
+        ], 
+        "Ability" : {
+            "Teleport" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Arcane_:_Legacy" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Arcane_:_Legacy", 
         "Name" : "Arcane : Legacy", 
         "rarity" : [
             15000000
-        ]
+        ], 
+        "Ability" : {
+            "Teleport" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Archangel" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Archangel", 
         "Name" : "Archangel", 
         "rarity" : [
             350000000, 
             70000000
         ], 
-        "native" : "HEAVEN"
+        "native" : "HEAVEN", 
+        "Ability" : {
+            "Holy Slash" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Archmage" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Archmage", 
         "Name" : "Archmage", 
         "rarity" : [
             1766000
         ]
     }, 
     "Ascendant" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ascendant", 
         "Name" : "Ascendant", 
         "rarity" : [
             935000000, 
@@ -252,14 +264,12 @@
         "native" : "HEAVEN"
     }, 
     "Ash" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ash", 
         "Name" : "Ash", 
         "rarity" : [
             2300
         ]
     }, 
     "Astraios" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Astraios", 
         "Name" : "Astraios", 
         "rarity" : [
             "Unobtainable", 
@@ -268,7 +278,6 @@
         "native" : "SINGULARITY"
     }, 
     "Astral" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Astral", 
         "Name" : "Astral", 
         "rarity" : [
             1336000, 
@@ -277,7 +286,6 @@
         "native" : "STARFALL"
     }, 
     "Astral_:_Astrald" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Astral_:_Astrald", 
         "Name" : "Astral : Astrald", 
         "rarity" : [
             "Unobtainable", 
@@ -286,7 +294,6 @@
         "native" : "ASTRALD EVENT"
     }, 
     "Astral_:_Zodiac" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Astral_:_Zodiac", 
         "Name" : "Astral : Zodiac", 
         "rarity" : [
             267200000, 
@@ -295,7 +302,6 @@
         "native" : "STARFALL"
     }, 
     "Astronaut" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Astronaut", 
         "Name" : "Astronaut", 
         "rarity" : [
             "Unobtainable", 
@@ -305,7 +311,6 @@
         "Title" : "ASTRONAUT"
     }, 
     "Atlas" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Atlas", 
         "Name" : "Atlas", 
         "rarity" : [
             360000000, 
@@ -315,14 +320,12 @@
         "Title" : "ATLAS"
     }, 
     "Atlas_:_A.T.L.A.S." : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Atlas_:_A.T.L.A.S.", 
         "Name" : "Atlas : A.T.L.A.S.", 
         "rarity" : [
             "CRAFTED"
         ]
     }, 
     "Atlas_:_Yuletide" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Atlas_:_Yuletide", 
         "Name" : "Atlas : Yuletide", 
         "rarity" : [
             "Unobtainable"
@@ -330,28 +333,24 @@
         "Title" : "ATLAS:YULETIDE"
     }, 
     "Atomic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Atomic", 
         "Name" : "Atomic", 
         "rarity" : [
             1180
         ]
     }, 
     "Atomic_:_Nucleus" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Atomic_:_Nucleus", 
         "Name" : "Atomic : Nucleus", 
         "rarity" : [
             92118000
         ]
     }, 
     "Atomic_:_Ribonucleic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Atomic_:_Ribonucleic", 
         "Name" : "Atomic : Ribonucleic", 
         "rarity" : [
             9876
         ]
     }, 
     "Attorney" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Attorney", 
         "Name" : "Attorney", 
         "rarity" : [
             "Unobtainable"
@@ -360,7 +359,6 @@
         "Title" : "ATTORNEY"
     }, 
     "Aviator" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Aviator", 
         "Name" : "Aviator", 
         "rarity" : [
             24000000, 
@@ -369,28 +367,30 @@
         "native" : "WINDY"
     }, 
     "Banshee" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Banshee", 
         "Name" : "Banshee", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Bioluminescent" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bioluminescent", 
         "Name" : "Bioluminescent", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Rain of Spear" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Bleeding" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bleeding", 
         "Name" : "Bleeding", 
         "rarity" : [
             4444
         ]
     }, 
     "Blizzard" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Blizzard", 
         "Name" : "Blizzard", 
         "rarity" : [
             27315000, 
@@ -399,7 +399,6 @@
         "native" : "SNOWY"
     }, 
     "Bloated.exe" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bloated.exe", 
         "Name" : "Bloated.exe", 
         "rarity" : [
             "Unobtainable"
@@ -407,7 +406,6 @@
         "Title" : "bloated.exe"
     }, 
     "Blood_Demon" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Blood_Demon", 
         "Name" : "Blood Demon", 
         "rarity" : [
             "Unobtainable"
@@ -415,37 +413,58 @@
         "Title" : "血の悪魔"
     }, 
     "Bloodgarden" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bloodgarden", 
         "Name" : "Bloodgarden", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Bloodlust" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bloodlust", 
         "Name" : "Bloodlust", 
         "rarity" : [
             300000000, 
             50000000
         ], 
-        "native" : "HELL"
+        "native" : "HELL", 
+        "Ability" : {
+            "Bloodthirst" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Blossom" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Blossom", 
         "Name" : "Blossom", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Blooming" : {
+                "Button" : "X", 
+                "Damage" : true
+            }, 
+            "Petalwind" : {
+                "Button" : "Q", 
+                "Description" : "Teleport"
+            }
+        }
     }, 
     "Blossom_:_Frozen" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Blossom_:_Frozen", 
         "Name" : "Blossom : Frozen", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Below Zero" : {
+                "Button" : "X", 
+                "Damage" : true
+            }, 
+            "Absolute Zero" : {
+                "Button" : "Q", 
+                "Damage" : true
+            }
+        }
     }, 
     "Borealis" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Borealis", 
         "Name" : "Borealis", 
         "rarity" : [
             "Unobtainable", 
@@ -454,14 +473,12 @@
         "native" : "DREAMSPACE"
     }, 
     "Bounded" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bounded", 
         "Name" : "Bounded", 
         "rarity" : [
             200000
         ]
     }, 
     "Bounded_:_Kidnapped" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bounded_:_Kidnapped", 
         "Name" : "Bounded : Kidnapped", 
         "rarity" : [
             "Unobtainable"
@@ -469,14 +486,12 @@
         "Title" : "KIDNAPPED"
     }, 
     "Bounded_:_Unbound" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bounded_:_Unbound", 
         "Name" : "Bounded : Unbound", 
         "rarity" : [
             2000000
         ]
     }, 
     "Breakthrough_(Aura)" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Breakthrough_(Aura)", 
         "Name" : "Breakthrough (Aura)", 
         "rarity" : [
             1999999999, 
@@ -485,77 +500,73 @@
         "native" : "NULL"
     }, 
     "Bubble" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Bubble", 
         "Name" : "Bubble", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Burger" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Burger", 
         "Name" : "Burger", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Carousel" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Carousel", 
         "Name" : "Carousel", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Carriage" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Carriage", 
         "Name" : "Carriage", 
         "rarity" : [
             80000000
         ]
     }, 
     "Celestial" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Celestial", 
         "Name" : "Celestial", 
         "rarity" : [
             350000
         ]
     }, 
     "Celestial_:_Cupid" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Celestial_:_Cupid", 
         "Name" : "Celestial : Cupid", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Celestial_:_Divine" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Celestial_:_Divine", 
         "Name" : "Celestial : Divine", 
         "rarity" : [
             7000000
-        ]
+        ], 
+        "TItle" : "« CELESTIAL ✰ DIVINE »", 
+        "Ability" : {
+            "Divine Halo" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Celestial_:_Eclipse" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Celestial_:_Eclipse", 
         "Name" : "Celestial : Eclipse", 
         "rarity" : [
             384400000
         ]
     }, 
     "Celestial_:_Wicked" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Celestial_:_Wicked", 
         "Name" : "Celestial : Wicked", 
         "rarity" : [
             1500000
         ]
     }, 
     "Cell_Asteroides" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Cell_Asteroides", 
         "Name" : "Cell Asteroides", 
         "rarity" : [
             "CRAFTED"
         ]
     }, 
     "Centurion" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Centurion", 
         "Name" : "Centurion", 
         "rarity" : [
             "Unobtainable", 
@@ -565,7 +576,6 @@
         "Title" : "CENTURION"
     }, 
     "Chillsear" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Chillsear", 
         "Name" : "Chillsear", 
         "rarity" : [
             375000000, 
@@ -575,42 +585,42 @@
         "Title" : "CHILLSEAR"
     }, 
     "Christmastide" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Christmastide", 
         "Name" : "Christmastide", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Chromatic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Chromatic", 
         "Name" : "Chromatic", 
         "rarity" : [
             20000000
         ]
     }, 
     "Chromatic_:_Genesis" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Chromatic_:_Genesis", 
         "Name" : "Chromatic : Genesis", 
         "rarity" : [
             99999999
-        ]
+        ], 
+        "Ability" : {
+            "Divine Impact" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Chromatic_:_Hyper" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Chromatic_:_Hyper", 
         "Name" : "Chromatic : Hyper", 
         "rarity" : [
             "CRAFTED"
         ]
     }, 
     "Chromatic_:_Kromat1k" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Chromatic_:_Kromat1k", 
         "Name" : "Chromatic : Kromat1k", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Clockwork" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Clockwork", 
         "Name" : "Clockwork", 
         "rarity" : [
             "Unobtainable", 
@@ -619,14 +629,19 @@
         "native" : "THE NULL'S EXISTENCE"
     }, 
     "Cola" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Cola", 
         "Name" : "Cola", 
         "rarity" : [
             3999
-        ]
+        ], 
+        "TItle" : "> Cola <", 
+        "Ability" : {
+            "Drink" : {
+                "Button" : "X", 
+                "Description" : "Heals Player for 15hp"
+            }
+        }
     }, 
     "Comet" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Comet", 
         "Name" : "Comet", 
         "rarity" : [
             120000, 
@@ -635,14 +650,12 @@
         "native" : "SINGULARITY"
     }, 
     "Common" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Common", 
         "Name" : "Common", 
         "rarity" : [
             2
         ]
     }, 
     "Constella" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Constella", 
         "Name" : "Constella", 
         "rarity" : [
             "Unobtainable", 
@@ -651,7 +664,6 @@
         "native" : "SINGULARITY"
     }, 
     "Content_Creator" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Content_Creator", 
         "Name" : "Content Creator", 
         "rarity" : [
             "Unobtainable"
@@ -659,7 +671,6 @@
         "NOTE" : "Become a content creator in Sol's RNG."
     }, 
     "Content_Creator_:_Platinum" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Content_Creator_:_Platinum", 
         "Name" : "Content Creator : Platinum", 
         "rarity" : [
             "Unobtainable"
@@ -667,21 +678,18 @@
         "NOTE" : "Become a verified content creator in Sol's RNG."
     }, 
     "Content_Deleted" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Content_Deleted", 
         "Name" : "Content Deleted", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Copper" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Copper", 
         "Name" : "Copper", 
         "rarity" : [
             29000
         ]
     }, 
     "Corrosive" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Corrosive", 
         "Name" : "Corrosive", 
         "rarity" : [
             12000, 
@@ -690,98 +698,115 @@
         "native" : "CORRUPTION"
     }, 
     "Corruption_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Corruption_Egg", 
         "Name" : "Corruption Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Cosmos" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Cosmos", 
         "Name" : "Cosmos", 
         "rarity" : [
             1520000
-        ]
+        ], 
+        "Ability" : {
+            "Claws of Galaxy" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Cosmos_:_Alice" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Cosmos_:_Alice", 
         "Name" : "Cosmos : Alice", 
         "rarity" : [
             3500000
-        ]
+        ], 
+        "Title" : "《 Alice 》", 
+        "Ability" : {
+            "Tidal Rush" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Vertical Waves" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Crimson" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Crimson", 
         "Name" : "Crimson", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Cruel" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Cruel", 
         "Name" : "$%^Cruel!@#", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "CryoFang" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/CryoFang", 
         "Name" : "CryoFang", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Cryogenic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Cryogenic", 
         "Name" : "Cryogenic", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Frost Combo" : {
+                "Button" : "Z"
+            }, 
+            "Arrow of Frostbite" : {
+                "Button" : "F"
+            }, 
+            "Froststep" : {
+                "Button" : "Q"
+            }, 
+            "Froststorm Slashes" : {
+                "Button" : "E"
+            }
+        }
     }, 
     "Cryptfire" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Cryptfire", 
         "Name" : "Cryptfire", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Crystallized" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Crystallized", 
         "Name" : "Crystallized", 
         "rarity" : [
             64
         ]
     }, 
     "Crystallized_:_Bejeweled" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Crystallized_:_Bejeweled", 
         "Name" : "Crystallized : Bejeweled", 
         "rarity" : [
             3600000
         ]
     }, 
     "Dullahan" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Dullahan", 
         "Name" : "Dullahan", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Diaboli" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Diaboli", 
         "Name" : "Diaboli", 
         "rarity" : [
             1004
         ]
     }, 
     "Diaboli_:_Void" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Diaboli_:_Void", 
         "Name" : "Diaboli : Void", 
         "rarity" : [
             100400
         ]
     }, 
     "Divinus" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Divinus", 
         "Name" : "Divinus", 
         "rarity" : [
             32, 
@@ -790,7 +815,6 @@
         "native" : "HEAVEN"
     }, 
     "Divinus_:_Angel" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Divinus_:_Angel", 
         "Name" : "Divinus : Angel", 
         "rarity" : [
             120000, 
@@ -799,7 +823,6 @@
         "native" : "HEAVEN"
     }, 
     "Divinus_:_Guardian" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Divinus_:_Guardian", 
         "Name" : "Divinus : Guardian", 
         "rarity" : [
             7777777, 
@@ -808,21 +831,18 @@
         "native" : "HEAVEN"
     }, 
     "Divinus_:_Love" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Divinus_:_Love", 
         "Name" : "Divinus : Love", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Dizzy" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Dizzy", 
         "Name" : "Dizzy", 
         "rarity" : [
             123
         ]
     }, 
     "Dominion" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Dominion", 
         "Name" : "Dominion", 
         "rarity" : [
             70000000, 
@@ -831,35 +851,30 @@
         "native" : "HEAVEN"
     }, 
     "Doodle" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Doodle", 
         "Name" : "Doodle", 
         "rarity" : [
             7500
         ]
     }, 
     "Doodle_:_Abyssal_Hunter" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Doodle_:_Abyssal_Hunter", 
         "Name" : "Doodle : Abyssal Hunter", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Dreadsea" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Dreadsea", 
         "Name" : "Dreadsea", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Dream_Traveler" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Dream_Traveler", 
         "Name" : "Dream Traveler", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Dreammetric" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Dreammetric", 
         "Name" : "Dreammetric", 
         "rarity" : [
             "Unobtainable", 
@@ -868,7 +883,6 @@
         "native" : "DREAMSPACE"
     }, 
     "Dreamscape" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Dreamscape", 
         "Name" : "Dreamscape", 
         "rarity" : [
             "Unobtainable", 
@@ -878,28 +892,24 @@
         "Title" : "dreamscape"
     }, 
     "Duke" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Duke", 
         "Name" : "Duke", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Easter_Isles" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Easter_Isles", 
         "Name" : "Easter Isles", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Eclipse" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Eclipse", 
         "Name" : "Eclipse", 
         "rarity" : [
             "CRAFTED"
         ]
     }, 
     "Eden" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Eden", 
         "Name" : "Eden", 
         "rarity" : [
             "Unobtainable", 
@@ -908,7 +918,6 @@
         "native" : "LIMBO"
     }, 
     "Edict" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Edict", 
         "Name" : "Edict", 
         "rarity" : [
             "Unobtainable"
@@ -916,14 +925,12 @@
         "Title" : "EDICT"
     }, 
     "Egger" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Egger", 
         "Name" : "Egger", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Eggis" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Eggis", 
         "Name" : "Eggis", 
         "rarity" : [
             "Unobtainable"
@@ -931,28 +938,24 @@
         "Title" : "EGGIS"
     }, 
     "Eggore" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Eggore", 
         "Name" : "Eggore", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Eggsistance" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Eggsistance", 
         "Name" : "Eggsistance", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Eisveil" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Eisveil", 
         "Name" : "Eisveil", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Elude" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Elude", 
         "Name" : "Elude", 
         "rarity" : [
             "Unobtainable", 
@@ -961,43 +964,52 @@
         "native" : "LIMBO"
     }, 
     "Emerald" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Emerald", 
         "Name" : "Emerald", 
         "rarity" : [
             500
         ]
     }, 
     "Emperor" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Emperor", 
         "Name" : "Emperor", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Encase" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Encase", 
         "Name" : "Encase", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Eostre" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Eostre", 
         "Name" : "Eostre", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Equinox" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Equinox", 
         "Name" : "Equinox", 
         "rarity" : [
             2500000000
         ], 
-        "Title" : "『EQUINOX』"
+        "Title" : "『EQUINOX』", 
+        "Ability" : {
+            "Release" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "Confiscation" : {
+                "Button" : "T", 
+                "Damage" : true, 
+                "Description" : "Heals User"
+            }, 
+            "Extinction" : {
+                "Button" : "R", 
+                "Damage" : true
+            }
+        }
     }, 
     "Equinox_:_You_Are_An_Idiot" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Equinox_:_You_Are_An_Idiot", 
         "Name" : "Equinox : You Are An Idiot", 
         "rarity" : [
             "Unobtainable"
@@ -1005,21 +1017,18 @@
         "Title" : "『YOU ARE AN IDIOT』"
     }, 
     "Erebus" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Erebus", 
         "Name" : "Erebus", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Ethereal" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ethereal", 
         "Name" : "Ethereal", 
         "rarity" : [
             35000000
         ]
     }, 
     "Evanescent" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Evanescent", 
         "Name" : "Evanescent", 
         "rarity" : [
             3360000, 
@@ -1028,7 +1037,6 @@
         "native" : "RAINY"
     }, 
     "EveNight" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/EveNight", 
         "Name" : "EveNight", 
         "rarity" : [
             "Unobtainable"
@@ -1036,35 +1044,40 @@
         "Title" : "Eve - Night"
     }, 
     "Exotic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Exotic", 
         "Name" : "Exotic", 
         "rarity" : [
             99999
         ]
     }, 
     "Exotic_:_Apex" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Exotic_:_Apex", 
         "Name" : "Exotic : Apex", 
         "rarity" : [
             49999500
-        ]
+        ], 
+        "Ability" : {
+            "Predator's Hunt" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Apex Rush" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Exotic_:_Void" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Exotic_:_Void", 
         "Name" : "Exotic : Void", 
         "rarity" : [
             299999999
         ]
     }, 
     "Express" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Express", 
         "Name" : "Express", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Faith" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Faith", 
         "Name" : "Faith", 
         "rarity" : [
             7250000, 
@@ -1074,7 +1087,6 @@
         "Title" : "+Faith+"
     }, 
     "Fault" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Fault", 
         "Name" : "Fault", 
         "rarity" : [
             "Unobtainable", 
@@ -1083,7 +1095,6 @@
         "native" : "GLITCHED"
     }, 
     "Felled" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Felled", 
         "Name" : "♱ FELLED ♱", 
         "rarity" : [
             180000000, 
@@ -1092,28 +1103,24 @@
         "native" : "HELL"
     }, 
     "Flora" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flora", 
         "Name" : "Flora", 
         "rarity" : [
             3700
         ]
     }, 
     "Flora_:_Evergreen" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flora_:_Evergreen", 
         "Name" : "Flora : Evergreen", 
         "rarity" : [
             370073730
         ]
     }, 
     "Flora_:_Florest" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flora_:_Florest", 
         "Name" : "Flora : Florest", 
         "rarity" : [
             32800000
         ]
     }, 
     "Flow" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flow", 
         "Name" : "✿ Flow ✿", 
         "rarity" : [
             87000, 
@@ -1122,7 +1129,6 @@
         "native" : "WINDY"
     }, 
     "Flowed" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flowed", 
         "Name" : "-FLOWED-", 
         "rarity" : [
             2121121, 
@@ -1131,7 +1137,6 @@
         "native" : "NULL|LIMBO"
     }, 
     "Flushed" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flushed", 
         "Name" : "Flushed", 
         "rarity" : [
             6900
@@ -1139,42 +1144,36 @@
         "Title" : ":Flushed:"
     }, 
     "Flushed_:_Heart_Eye" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flushed_:_Heart_Eye", 
         "Name" : "Flushed : Heart Eye", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Flushed_:_Lobotomy" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flushed_:_Lobotomy", 
         "Name" : "Flushed : Lobotomy", 
         "rarity" : [
             69000
         ]
     }, 
     "Flushed_:_Troll" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flushed_:_Troll", 
         "Name" : "Flushed : Troll", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Flutter" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flutter", 
         "Name" : "Flutter", 
         "rarity" : [
             5000
         ]
     }, 
     "Flutter_:_Buggify" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Flutter_:_Buggify", 
         "Name" : "Flutter : Buggify", 
         "rarity" : [
             2000000
         ]
     }, 
     "Forbidden" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Forbidden", 
         "Name" : "Forbidden", 
         "rarity" : [
             403, 
@@ -1183,7 +1182,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Fragments_of_the_Crimson_Moon" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Fragments_of_the_Crimson_Moon", 
         "Name" : "赤月の破片", 
         "rarity" : [
             "Unobtainable", 
@@ -1192,14 +1190,19 @@
         "NOTE" : "1/1,000 from Red Moon Potion"
     }, 
     "Frigid" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Frigid", 
         "Name" : "Frigid", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Title" : "+ Frigid +", 
+        "Ability" : {
+            "Frozen Spikes" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Frostwood" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Frostwood", 
         "Name" : "Frostwood", 
         "rarity" : [
             "Unobtainable"
@@ -1207,7 +1210,6 @@
         "Title" : "« Frostwood »"
     }, 
     "Galaxy" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Galaxy", 
         "Name" : "Galaxy", 
         "rarity" : [
             5000000, 
@@ -1216,7 +1218,6 @@
         "native" : "STARFALL"
     }, 
     "Gargantua" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Gargantua", 
         "Name" : "Gargantua", 
         "rarity" : [
             430000000, 
@@ -1225,7 +1226,6 @@
         "native" : "SINGULARITY"
     }, 
     "Gilded" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Gilded", 
         "Name" : "Gilded", 
         "rarity" : [
             512, 
@@ -1234,14 +1234,12 @@
         "native" : "SANDSTORM"
     }, 
     "Gingerbread" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Gingerbread", 
         "Name" : "Gingerbread", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Glacier" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Glacier", 
         "Name" : "Glacier", 
         "rarity" : [
             2304, 
@@ -1250,7 +1248,6 @@
         "native" : "SNOWY"
     }, 
     "Glitch" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Glitch", 
         "Name" : "Glitch", 
         "rarity" : [
             "Unobtainable", 
@@ -1259,42 +1256,52 @@
         "native" : "GLITCHED"
     }, 
     "Glitched_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Glitched_Egg", 
         "Name" : "Glitched Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Glock" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Glock", 
         "Name" : "Glock", 
         "rarity" : [
             1700
-        ]
+        ], 
+        "Ability" : {
+            "Shoot" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Melee" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Glock_:_the_glock_of_the_sky" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Glock_:_the_glock_of_the_sky", 
         "Name" : "Glock : the glock of the sky", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Shoot" : {
+                "Button" : "F", 
+                "Description" : "Kills Player with 10k damage"
+            }
+        }
     }, 
     "Godslayer" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Godslayer", 
         "Name" : "Godslayer", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Good" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Good", 
         "Name" : "Good", 
         "rarity" : [
             5
         ]
     }, 
     "Gothic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Gothic", 
         "Name" : "Gothic", 
         "rarity" : [
             "Unobtainable", 
@@ -1304,28 +1311,24 @@
         "Title" : "ゴシック"
     }, 
     "Graveborn" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Graveborn", 
         "Name" : "Graveborn", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Gravitational" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Gravitational", 
         "Name" : "Gravitational", 
         "rarity" : [
             2000000
         ]
     }, 
     "Grief" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Grief", 
         "Name" : "Grief", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Guardian" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Guardian", 
         "Name" : "Guardian", 
         "rarity" : [
             10000000
@@ -1333,44 +1336,51 @@
         "Title" : "GUARDIAN"
     }, 
     "Hades" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hades", 
         "Name" : "Hades", 
         "rarity" : [
             6666666, 
             1111111
         ], 
-        "native" : "HELL"
+        "native" : "HELL", 
+        "Ability" : {
+            "Breathe of Flames" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Harnessed" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Harnessed", 
         "Name" : "Harnessed", 
         "rarity" : [
             8500000
         ]
     }, 
     "Harnessed_:_Elements" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Harnessed_:_Elements", 
         "Name" : "Harnessed : Elements", 
         "rarity" : [
             85000000
-        ]
+        ], 
+        "Title" : "⌊ HARNESSED : ELEMENTS ⌉", 
+        "Ability" : {
+            "Elemental Shift" : {
+                "Button" : "X", 
+                "Description" : "Changes Forms to Lightning, Fire, Snowy and Nature"
+            }
+        }
     }, 
     "Harvester" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Harvester", 
         "Name" : "Harvester", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Hatchwarden" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hatchwarden", 
         "Name" : "Hatchwarden", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Hazard" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hazard", 
         "Name" : "Hazard", 
         "rarity" : [
             7000, 
@@ -1379,7 +1389,6 @@
         "native" : "CORRUPTION"
     }, 
     "Hazard_:_Rays" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hazard_:_Rays", 
         "Name" : "Hazard : Rays", 
         "rarity" : [
             70000, 
@@ -1388,42 +1397,36 @@
         "native" : "CORRUPTION"
     }, 
     "Headless" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Headless", 
         "Name" : "Headless", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Headless_:_Horseman" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Headless_:_Horseman", 
         "Name" : "Headless : Horseman", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Helios" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Helios", 
         "Name" : "Helios", 
         "rarity" : [
             9000000
         ]
     }, 
     "Hellfire_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hellfire_Egg", 
         "Name" : "Hellfire Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Honey" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Honey", 
         "Name" : "Honey", 
         "rarity" : [
             8335
         ]
     }, 
     "Hope" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hope", 
         "Name" : "Hope", 
         "rarity" : [
             488725, 
@@ -1432,28 +1435,24 @@
         "native" : "HEAVEN"
     }, 
     "Hydrogen" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hydrogen", 
         "Name" : "Hydrogen", 
         "rarity" : [
             1111
         ]
     }, 
     "Hyper-Volt" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hyper-Volt", 
         "Name" : "Hyper-Volt", 
         "rarity" : [
             7500000
         ]
     }, 
     "Hyper-Volt_:_Ever-Storm" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Hyper-Volt_:_Ever-Storm", 
         "Name" : "Hyper-Volt : Ever-Storm", 
         "rarity" : [
             225000000
         ]
     }, 
     "Icarus" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Icarus", 
         "Name" : "Icarus", 
         "rarity" : [
             15660000, 
@@ -1463,70 +1462,115 @@
         "Title" : "ICARUS"
     }, 
     "Illusionary" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Illusionary", 
         "Name" : "Illusionary", 
         "rarity" : [
             "Unobtainable", 
             10000000
         ], 
-        "native" : "CYBERSPACE"
+        "native" : "CYBERSPACE", 
+        "Title" : "illusionary", 
+        "Ability" : {
+            "you are a puppet." : {
+                "Button" : "V", 
+                "Damage" : true
+            }, 
+            "you belong here." : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "wake up." : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "no, not yet." : {
+                "Button" : "R", 
+                "Damage" : true
+            }
+        }
     }, 
     "Impeached" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Impeached", 
         "Name" : "Impeached", 
         "rarity" : [
             200000000, 
             40000000
         ], 
         "native" : "CORRUPTION", 
-        "Title" : "IMPEACHED"
+        "Title" : "IMPEACHED", 
+        "Ability" : {
+            "Corrupted Greatsword" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Impeached_:_i'm_peach" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Impeached_:_i'm_peach", 
         "Name" : "Impeached : i'm peach", 
         "rarity" : [
             "Unobtainable"
         ], 
-        "Title" : "i'm peach"
+        "Title" : "i'm peach", 
+        "Ability" : {
+            "UNKNOWN NAME NEEDS FINDING" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Impeached_:_Imcrine" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Impeached_:_Imcrine", 
         "Name" : "Impeached : Imcrine", 
         "rarity" : [
             "Unobtainable"
         ], 
-        "Title" : "IMCRINE"
+        "Title" : "IMCRINE", 
+        "Ability" : {
+            "😭" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Loudly Crying Face Emoji" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Ink" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ink", 
         "Name" : "Ink", 
         "rarity" : [
             700
         ]
     }, 
     "Ink_:_Leak" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ink_:_Leak", 
         "Name" : "Ink : Leak", 
         "rarity" : [
             14000
-        ]
+        ], 
+        "Ability" : {
+            "Splash SLash" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Ink Blaster" : {
+                "Button" : "X", 
+                "Damage" : true
+            }, 
+            "Dyed-n-Seek" : {
+                "Button" : "R"
+            }
+        }
     }, 
     "Ink_:_PaintballGun" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ink_:_PaintballGun", 
         "Name" : "Ink : PaintballGun", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Innovator" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Innovator", 
         "Name" : "Innovator", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Jackfrost" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Jackfrost", 
         "Name" : "Jackfrost", 
         "rarity" : [
             "Unobtainable"
@@ -1534,7 +1578,6 @@
         "Title" : "Jack Frost"
     }, 
     "Jackpot" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Jackpot", 
         "Name" : "Jackpot", 
         "rarity" : [
             777, 
@@ -1543,21 +1586,18 @@
         "native" : "SANDSTORM"
     }, 
     "Jade" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Jade", 
         "Name" : "Jade", 
         "rarity" : [
             125000
         ]
     }, 
     "Jazz" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Jazz", 
         "Name" : "Jazz", 
         "rarity" : [
             160000
         ]
     }, 
     "Jazz_:_Orchestra" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Jazz_:_Orchestra", 
         "Name" : "Jazz : Orchestra", 
         "rarity" : [
             336870912
@@ -1565,7 +1605,6 @@
         "Title" : "♩ Orchestra ♩"
     }, 
     "Juxtaposition" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Juxtaposition", 
         "Name" : "Juxtaposition", 
         "rarity" : [
             40440400
@@ -1574,28 +1613,24 @@
         "Title" : "{J u x t a p o s i t i o n}"
     }, 
     "Kawaii" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Kawaii", 
         "Name" : "Kawaii", 
         "rarity" : [
             12300
         ]
     }, 
     "Kyawthuite" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Kyawthuite", 
         "Name" : "Kyawthuite", 
         "rarity" : [
             850000
         ]
     }, 
     "Kyawthuite_:_Remembrance" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Kyawthuite_:_Remembrance", 
         "Name" : "Kyawthuite : Remembrance", 
         "rarity" : [
             450000000
         ]
     }, 
     "Lament" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lament", 
         "Name" : "Lament", 
         "rarity" : [
             "Unobtainable"
@@ -1603,14 +1638,12 @@
         "Title" : "LAMENT"
     }, 
     "Lamenthyr" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lamenthyr", 
         "Name" : "Lamenthyr", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Lantern" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lantern", 
         "Name" : "Lantern", 
         "rarity" : [
             333333
@@ -1618,7 +1651,6 @@
         "Title" : "- Lantern -"
     }, 
     "Leviathan" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Leviathan", 
         "Name" : "Leviathan", 
         "rarity" : [
             "Unobtainable", 
@@ -1627,7 +1659,6 @@
         "native" : "RAINY"
     }, 
     "Life_Guard" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Life_Guard", 
         "Name" : "Life Guard", 
         "rarity" : [
             "Unobtainable"
@@ -1635,28 +1666,24 @@
         "Title" : "Life-Guard"
     }, 
     "Lightning" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lightning", 
         "Name" : "Lightning", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Lily" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lily", 
         "Name" : "Lily", 
         "rarity" : [
             112000000
         ]
     }, 
     "Lost_Soul" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lost_Soul", 
         "Name" : "Lost Soul", 
         "rarity" : [
             9200
         ]
     }, 
     "Lost_Soul_:_Wander" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lost_Soul_:_Wander", 
         "Name" : "Lost Soul : Wander", 
         "rarity" : [
             "Unobtainable"
@@ -1664,14 +1691,12 @@
         "Title" : "WANDER"
     }, 
     "Lotusfall" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lotusfall", 
         "Name" : "Lotusfall", 
         "rarity" : [
             320000000
         ]
     }, 
     "Lullaby" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lullaby", 
         "Name" : "Lullaby", 
         "rarity" : [
             17000000, 
@@ -1680,7 +1705,6 @@
         "native" : "NIGHTTIME"
     }, 
     "Lumenpool" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lumenpool", 
         "Name" : "Lumenpool", 
         "rarity" : [
             220000000, 
@@ -1690,21 +1714,40 @@
         "Title" : "~ Lumenpool ~"
     }, 
     "Lumenpool_:_Ramenpool" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lumenpool_:_Ramenpool", 
         "Name" : "Lumenpool : Ramenpool", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Luminosity" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Luminosity", 
         "Name" : "Luminosity", 
         "rarity" : [
             1200000000
-        ]
+        ], 
+        "Title" : "[ LUMINOSITY ]", 
+        "Ability" : {
+            "Blinding Witness" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Prism" : {
+                "Button" : "T", 
+                "Damage" : true
+            }, 
+            "Lightspeed" : {
+                "Button" : "Q"
+            }, 
+            "Brilliance" : {
+                "Button" : "R", 
+                "Damage" : true
+            }, 
+            "Annihilate" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Lunar" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lunar", 
         "Name" : "Lunar", 
         "rarity" : [
             50000, 
@@ -1713,14 +1756,12 @@
         "native" : "NIGHTTIME"
     }, 
     "Lunar_:_Cultist" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lunar_:_Cultist", 
         "Name" : "Lunar : Cultist", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Lunar_:_Full_Moon" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lunar_:_Full_Moon", 
         "Name" : "Lunar : Full Moon", 
         "rarity" : [
             5000000, 
@@ -1729,21 +1770,25 @@
         "native" : "NIGHTTIME"
     }, 
     "Lunar_:_Nightfall" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lunar_:_Nightfall", 
         "Name" : "Lunar : Nightfall", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Title" : "Lunar ☾ Nightfall", 
+        "Ability" : {
+            "Night Impale" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Lunatic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Lunatic", 
         "Name" : "Lunatic", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Maelstrom" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Maelstrom", 
         "Name" : "Maelstrom", 
         "rarity" : [
             309999999, 
@@ -1752,49 +1797,42 @@
         "native" : "WINDY"
     }, 
     "Magnetic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Magnetic", 
         "Name" : "Magnetic", 
         "rarity" : [
             2048
         ]
     }, 
     "Magnetic_:_Reverse_Polarity" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Magnetic_:_Reverse_Polarity", 
         "Name" : "Magnetic : Reverse Polarity", 
         "rarity" : [
             1024000
         ]
     }, 
     "Malediction" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Malediction", 
         "Name" : "Malediction", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Manta" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Manta", 
         "Name" : "Manta", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "MasterHand" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/MasterHand", 
         "Name" : "MasterHand", 
         "rarity" : [
             "CRAFTED"
         ]
     }, 
     "Mastermind" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Mastermind", 
         "Name" : "Mastermind", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Matrix" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Matrix", 
         "Name" : "Matrix", 
         "rarity" : [
             50000000, 
@@ -1803,7 +1841,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Matrix_:_Overdrive" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Matrix_:_Overdrive", 
         "Name" : "Matrix : Overdrive", 
         "rarity" : [
             503000000, 
@@ -1812,7 +1849,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Matrix_:_Reality" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Matrix_:_Reality", 
         "Name" : "Matrix : Reality", 
         "rarity" : [
             601020102, 
@@ -1821,14 +1857,12 @@
         "native" : "CYBERSPACE"
     }, 
     "Matrix_:_Steampunk" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Matrix_:_Steampunk", 
         "Name" : "Matrix : Steampunk", 
         "rarity" : [
             "CRAFTED"
         ]
     }, 
     "Megaphone" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Megaphone", 
         "Name" : "Megaphone", 
         "rarity" : [
             5000
@@ -1836,14 +1870,12 @@
         "native" : "YG Blessing Effect"
     }, 
     "Melodic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Melodic", 
         "Name" : "Melodic", 
         "rarity" : [
             11300000
         ]
     }, 
     "Melodic_:_Serenade" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Melodic_:_Serenade", 
         "Name" : "Melodic : Serenade", 
         "rarity" : [
             77000000, 
@@ -1852,24 +1884,41 @@
         "native" : "NIGHTTIME"
     }, 
     "Memory" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Memory", 
         "Name" : "Memory", 
         "rarity" : [
             100
         ], 
-        "native" : "Oblivion Effect"
+        "native" : "Oblivion Effect", 
+        "Ability" : {
+            "Memory of Fighter" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Memory of Swordman" : {
+                "Button" : "E"
+            }
+        }
     }, 
     "Metabytes" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Metabytes", 
         "Name" : "Metabytes", 
         "rarity" : [
             4000000, 
             2000000
         ], 
-        "native" : "CYBERSPACE"
+        "native" : "CYBERSPACE", 
+        "Title" : "METABYTES", 
+        "Ability" : {
+            "MetaCharge" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "VirtualPunch" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }
     }, 
     "Monarch" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Monarch", 
         "Name" : "Monarch", 
         "rarity" : [
             "Unobtainable", 
@@ -1878,57 +1927,55 @@
         "native" : "CORRUPTION"
     }, 
     "Moonflower" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Moonflower", 
         "Name" : "Moonflower", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Morning_Star" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Morning_Star", 
         "Name" : "Morning Star", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Natural" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Natural", 
         "Name" : "Natural", 
         "rarity" : [
             8
         ]
     }, 
     "Nautilus" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Nautilus", 
         "Name" : "Nautilus", 
         "rarity" : [
             70000
         ]
     }, 
     "Nautilus_:_Lost" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Nautilus_:_Lost", 
         "Name" : "Nautilus : Lost", 
         "rarity" : [
             7700000
         ]
     }, 
     "Neferkhaf" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Neferkhaf", 
         "Name" : "Neferkhaf", 
         "rarity" : [
             1000
         ], 
-        "native" : "Potion of the Dunes Effect"
+        "native" : "Potion of the Dunes Effect", 
+        "Ability" : {
+            "Earthquake" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Nightmare_Sky" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Nightmare_Sky", 
         "Name" : "Nightmare Sky", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Nihility" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Nihility", 
         "Name" : "Nihility", 
         "rarity" : [
             9000000, 
@@ -1937,35 +1984,30 @@
         "native" : "NULL"
     }, 
     "North_Pole" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/North_Pole", 
         "Name" : "North Pole", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Northern" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Northern", 
         "Name" : "Northern", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Nothing" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Nothing", 
         "Name" : "Nothing", 
         "rarity" : [
             1
         ]
     }, 
     "Null_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Null_Egg", 
         "Name" : "Null Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Nyctophobia" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Nyctophobia", 
         "Name" : "Nyctophobia", 
         "rarity" : [
             "Unobtainable", 
@@ -1974,16 +2016,20 @@
         "native" : "LIMBO"
     }, 
     "Oblivion" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Oblivion", 
         "Name" : "Oblivion", 
         "rarity" : [
             2000
         ], 
         "native" : "Oblivion Effect", 
-        "Title" : "OBLIVION"
+        "Title" : "OBLIVION", 
+        "Ability" : {
+            "Scream" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Oculus" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Oculus", 
         "Name" : "Oculus", 
         "rarity" : [
             23233340, 
@@ -1992,14 +2038,12 @@
         "native" : "HEAVEN"
     }, 
     "Oni" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Oni", 
         "Name" : "Oni", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Oppression" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Oppression", 
         "Name" : "Oppression", 
         "rarity" : [
             "Unobtainable", 
@@ -2009,21 +2053,18 @@
         "Title" : "[OPPRESSION]"
     }, 
     "Origin" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Origin", 
         "Name" : "Origin", 
         "rarity" : [
             6500000
         ]
     }, 
     "Origin_:_Onion" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Origin_:_Onion", 
         "Name" : "Origin : Onion", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Orion" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Orion", 
         "Name" : "Orion", 
         "rarity" : [
             3000000, 
@@ -2032,7 +2073,6 @@
         "native" : "STARFALL"
     }, 
     "Outlaw" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Outlaw", 
         "Name" : "Outlaw", 
         "rarity" : [
             8000000, 
@@ -2042,28 +2082,35 @@
         "Title" : "OUTLAW"
     }, 
     "Overseer" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Overseer", 
         "Name" : "Overseer", 
         "rarity" : [
             45000000
         ]
     }, 
     "Overture" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Overture", 
         "Name" : "Overture", 
         "rarity" : [
             150000000
-        ]
+        ], 
+        "Ability" : {
+            "Time Stop" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Overture_:_History" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Overture_:_History", 
         "Name" : "Overture : History", 
         "rarity" : [
             300000000
-        ]
+        ], 
+        "Title" : "OVERTURE I HISTORY", 
+        "Ability" : {
+            "Time Stop" : {
+                "Button" : "X"
+            }
+        }
     }, 
     "Parasite" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Parasite", 
         "Name" : "Parasite", 
         "rarity" : [
             3000000, 
@@ -2072,21 +2119,24 @@
         "native" : "CORRUPTION"
     }, 
     "Parasol" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Parasol", 
         "Name" : "Parasol", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Rush" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Parol" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Parol", 
         "Name" : "Parol", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Permafrost" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Permafrost", 
         "Name" : "Permafrost", 
         "rarity" : [
             73500, 
@@ -2095,38 +2145,47 @@
         "native" : "SNOWY"
     }, 
     "Perpetual" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Perpetual", 
         "Name" : "Perpetual", 
         "rarity" : [
             315000000
         ]
     }, 
     "Phantasma" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Phantasma", 
         "Name" : "Phantasma", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Pixelation" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pixelation", 
         "Name" : "Pixelation", 
         "rarity" : [
             1073741824, 
             536870912
         ], 
         "native" : "CYBERSPACE", 
-        "Title" : "▣ PIXELATION ▣"
+        "Title" : "▣ PIXELATION ▣", 
+        "Ability" : {
+            "Shoot Command" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "Pixelated Edges" : {
+                "Button" : "I", 
+                "Damage" : true
+            }, 
+            "Mania!" : {
+                "Button" : "T", 
+                "Damage" : true
+            }
+        }
     }, 
     "Plasma" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Plasma", 
         "Name" : "Plasma", 
         "rarity" : [
             20600000
         ]
     }, 
     "Player" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Player", 
         "Name" : "Player", 
         "rarity" : [
             3000, 
@@ -2135,7 +2194,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Player_:_Respawn" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Player_:_Respawn", 
         "Name" : "Player : Respawn", 
         "rarity" : [
             1999999, 
@@ -2144,7 +2202,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Pleiades" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pleiades", 
         "Name" : "Pleiades", 
         "rarity" : [
             "Unobtainable", 
@@ -2153,7 +2210,6 @@
         "native" : "SINGULARITY"
     }, 
     "Point_:_Zero" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Point_:_Zero", 
         "Name" : "Point : Zero", 
         "rarity" : [
             "Unobtainable", 
@@ -2162,7 +2218,6 @@
         "native" : "SINGULARITY"
     }, 
     "Poseidon" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Poseidon", 
         "Name" : "Poseidon", 
         "rarity" : [
             4000000, 
@@ -2171,28 +2226,24 @@
         "native" : "RAINY"
     }, 
     "Powered" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Powered", 
         "Name" : "Powered", 
         "rarity" : [
             16384
         ]
     }, 
     "Precious" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Precious", 
         "Name" : "Precious", 
         "rarity" : [
             1024
         ]
     }, 
     "Present" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Present", 
         "Name" : "Present", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Projection" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Projection", 
         "Name" : "Projection", 
         "rarity" : [
             "Unobtainable", 
@@ -2201,7 +2252,6 @@
         "native" : "SINGULARITY"
     }, 
     "Prologue" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Prologue", 
         "Name" : "Prologue", 
         "rarity" : [
             "Unobtainable", 
@@ -2210,7 +2260,6 @@
         "native" : "LIMBO"
     }, 
     "Prophecy" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Prophecy", 
         "Name" : "Prophecy", 
         "rarity" : [
             275649430, 
@@ -2220,35 +2269,47 @@
         "Title" : "PROPHECY"
     }, 
     "Prowler" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Prowler", 
         "Name" : "Prowler", 
         "rarity" : [
             540000
         ]
     }, 
     "Pukeko" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pukeko", 
         "Name" : "Pukeko", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Pukeko_:_Jumping" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pukeko_:_Jumping", 
         "Name" : "Pukeko : Jumping", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Pukeko_:_P.U.K.E.K.O.G.O.D." : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pukeko_:_P.U.K.E.K.O.G.O.D.", 
         "Name" : "Pukeko : P.U.K.E.K.O.G.O.D.", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "JumpEvent" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Euruption" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "HealPad" : {
+                "Button" : "R"
+            }, 
+            "DeathBeamFX" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Pulsar" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pulsar", 
         "Name" : "Pulsar", 
         "rarity" : [
             "Unobtainable", 
@@ -2257,7 +2318,6 @@
         "native" : "SINGULARITY"
     }, 
     "Pump" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pump", 
         "Name" : "Pump", 
         "rarity" : [
             "Unobtainable"
@@ -2265,14 +2325,12 @@
         "Title" : "PUMP"
     }, 
     "Pump_:_Trickster" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pump_:_Trickster", 
         "Name" : "Pump : Trickster", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Pythios" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Pythios", 
         "Name" : "Pythios", 
         "rarity" : [
             666666666, 
@@ -2281,63 +2339,60 @@
         "native" : "HELL"
     }, 
     "Quartz" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Quartz", 
         "Name" : "Quartz", 
         "rarity" : [
             8192
         ]
     }, 
     "Rabbit_Invasion" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Rabbit_Invasion", 
         "Name" : "Rabbit Invasion", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Rage" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Rage", 
         "Name" : "Rage", 
         "rarity" : [
             128
         ]
     }, 
     "Rage_:_Brawler" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Rage_:_Brawler", 
         "Name" : "Rage : Brawler", 
         "rarity" : [
             1280000
-        ]
+        ], 
+        "Ability" : {
+            "Raging Fist" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Rage_:_Heated" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Rage_:_Heated", 
         "Name" : "Rage : Heated", 
         "rarity" : [
             12800
         ]
     }, 
     "Rainy_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Rainy_Egg", 
         "Name" : "Rainy Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Rare" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Rare", 
         "Name" : "Rare", 
         "rarity" : [
             16
         ]
     }, 
     "Ravage" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ravage", 
         "Name" : "Ravage", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Raven" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Raven", 
         "Name" : "Raven", 
         "rarity" : [
             "Unobtainable", 
@@ -2346,7 +2401,6 @@
         "native" : "LIMBO"
     }, 
     "Raven_:_Plague" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Raven_:_Plague", 
         "Name" : "Raven : Plague", 
         "rarity" : [
             "Unobtainable", 
@@ -2355,14 +2409,12 @@
         "native" : "LIMBO"
     }, 
     "Reaper" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Reaper", 
         "Name" : "Reaper", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Red_Full_Moon" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Red_Full_Moon", 
         "Name" : "Red Full Moon", 
         "rarity" : [
             "Unobtainable"
@@ -2370,35 +2422,48 @@
         "Title" : "赤い満月"
     }, 
     "Refraction" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Refraction", 
         "Name" : "Refraction", 
         "rarity" : [
             7242000
         ]
     }, 
     "Reina" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Reina", 
         "Name" : "Reina", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "HooveStomp" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "BlizzardRush" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "IceCrush" : {
+                "Button" : "X", 
+                "Damage" : true
+            }, 
+            "PiercingCold" : {
+                "Button" : "R", 
+                "Damage" : true
+            }
+        }
     }, 
     "Revive" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Revive", 
         "Name" : "Revive", 
         "rarity" : [
             645000000
         ]
     }, 
     "Ruby" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ruby", 
         "Name" : "Ruby", 
         "rarity" : [
             350
         ]
     }, 
     "Ruby_:_Brimstone" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ruby_:_Brimstone", 
         "Name" : "Ruby : Brimstone", 
         "rarity" : [
             24060000
@@ -2406,14 +2471,12 @@
         "Title" : "RUBY"
     }, 
     "Ruins" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ruins", 
         "Name" : "Ruins", 
         "rarity" : [
             500000000
         ]
     }, 
     "Ruins_:_Withered" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Ruins_:_Withered", 
         "Name" : "Ruins : Withered", 
         "rarity" : [
             800000000
@@ -2421,14 +2484,22 @@
         "Title" : "⟪-WITHERED-⟫"
     }, 
     "Runic" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Runic", 
         "Name" : "Runic", 
         "rarity" : [
             50000000
-        ]
+        ], 
+        "Ability" : {
+            "Runic Burst" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "Ancient Pillars" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Sailor" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sailor", 
         "Name" : "Sailor", 
         "rarity" : [
             12000000, 
@@ -2437,7 +2508,6 @@
         "native" : "RAINY"
     }, 
     "Sailor_:_Admiral" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sailor_:_Admiral", 
         "Name" : "Sailor : Admiral", 
         "rarity" : [
             540000000, 
@@ -2446,7 +2516,6 @@
         "native" : "RAINY"
     }, 
     "Sailor_:_Flying_Dutchman" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sailor_:_Flying_Dutchman", 
         "Name" : "Sailor : Flying Dutchman", 
         "rarity" : [
             80000000, 
@@ -2455,84 +2524,103 @@
         "native" : "RAINY"
     }, 
     "Samgong" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Samgong", 
         "Name" : "Samgong", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "SandBasket" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/SandBasket", 
         "Name" : "SandBasket", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Sand Wall" : {
+                "Button" : "E"
+            }
+        }
     }, 
     "Sandstorm_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sandstorm_Egg", 
         "Name" : "Sandstorm Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Santa_Frost" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Santa_Frost", 
         "Name" : "Santa Frost", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Sapphire" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sapphire", 
         "Name" : "Sapphire", 
         "rarity" : [
             800
         ]
     }, 
     "Sapphire_:_Peace" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sapphire_:_Peace", 
         "Name" : "Sapphire : Peace", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Savior" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Savior", 
         "Name" : "Savior", 
         "rarity" : [
             3200000
         ]
     }, 
     "Scavenger" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Scavenger", 
         "Name" : "Scavenger", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Scorpion" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Scorpion", 
         "Name" : "Scorpion", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Dash" : {
+                "Button" : "F"
+            }, 
+            "StabScorpion" : {
+                "Button" : "R", 
+                "Damage" : true
+            }, 
+            "Tailswing" : {
+                "Button" : "X", 
+                "Damage" : true
+            }, 
+            "Sandstorm Punch" : {
+                "Button" : "E", 
+                "Damage" : true
+            }
+        }, 
+        "#TODO CONTINUE HERE" : {
+            "" : "https://sol-rng.fandom.com/wiki/Category:Has_Abilities", 
+            "Ability" : {
+                "Earthquake" : {
+                    "Button" : "F", 
+                    "Damage" : true
+                }
+            }
+        }
     }, 
     "Sentinel" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sentinel", 
         "Name" : "Sentinel", 
         "rarity" : [
             60000000
         ]
     }, 
     "Shard_Surfer" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Shard_Surfer", 
         "Name" : "Shard Surfer", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Sharkyn" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sharkyn", 
         "Name" : "Sharkyn", 
         "rarity" : [
             10000000, 
@@ -2542,7 +2630,6 @@
         "Title" : "SHARKYN"
     }, 
     "Shiftlock" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Shiftlock", 
         "Name" : "Shiftlock", 
         "rarity" : [
             3325000, 
@@ -2551,28 +2638,24 @@
         "native" : "NULL"
     }, 
     "Shucks" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Shucks", 
         "Name" : "Shucks", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Sidereum" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sidereum", 
         "Name" : "Sidereum", 
         "rarity" : [
             4096
         ]
     }, 
     "Sinister" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sinister", 
         "Name" : "Sinister", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Sirius" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sirius", 
         "Name" : "Sirius", 
         "rarity" : [
             14000000, 
@@ -2581,56 +2664,48 @@
         "native" : "STARFALL"
     }, 
     "Sky_Burst" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sky_Burst", 
         "Name" : "Sky Burst", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Sky_Festival" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sky_Festival", 
         "Name" : "Sky Festival", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Skyforge" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Skyforge", 
         "Name" : "Skyforge", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Slaughter" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Slaughter", 
         "Name" : "Slaughter", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Snowball" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Snowball", 
         "Name" : "Snowball", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Snowy_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Snowy_Egg", 
         "Name" : "Snowy Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Sol" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sol", 
         "Name" : "Sol", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Solar" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Solar", 
         "Name" : "Solar", 
         "rarity" : [
             50000, 
@@ -2639,7 +2714,6 @@
         "native" : "DAYTIME"
     }, 
     "Solar_:_Solstice" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Solar_:_Solstice", 
         "Name" : "Solar : Solstice", 
         "rarity" : [
             5000000, 
@@ -2648,28 +2722,24 @@
         "native" : "DAYTIME"
     }, 
     "Sophyra" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sophyra", 
         "Name" : "Sophyra", 
         "rarity" : [
             570000000
         ]
     }, 
     "Soul_Hunter" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Soul_Hunter", 
         "Name" : "Soul Hunter", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Sovereign" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sovereign", 
         "Name" : "Sovereign", 
         "rarity" : [
             750000000
         ]
     }, 
     "Sovereign_:_Frostveil" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sovereign_:_Frostveil", 
         "Name" : "Sovereign : Frostveil", 
         "rarity" : [
             "Unobtainable"
@@ -2677,7 +2747,6 @@
         "Title" : "SOVEREIGN Frostveil"
     }, 
     "Spectraflow" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Spectraflow", 
         "Name" : "Spectraflow", 
         "rarity" : [
             100000000
@@ -2685,14 +2754,12 @@
         "Title" : "◇ Spectraflow ◇"
     }, 
     "Spectre" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Spectre", 
         "Name" : "Spectre", 
         "rarity" : [
             140000
         ]
     }, 
     "Starborn" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starborn", 
         "Name" : "Starborn", 
         "rarity" : [
             72000000, 
@@ -2701,21 +2768,18 @@
         "native" : "STARFALL"
     }, 
     "Stardust" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Stardust", 
         "Name" : "Stardust", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Starfall_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starfall_Egg", 
         "Name" : "Starfall Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Stargazer" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Stargazer", 
         "Name" : "Stargazer", 
         "rarity" : [
             9200000, 
@@ -2724,7 +2788,6 @@
         "native" : "STARFALL"
     }, 
     "Starlight" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starlight", 
         "Name" : "Starlight", 
         "rarity" : [
             50000, 
@@ -2733,7 +2796,6 @@
         "native" : "STARFALL"
     }, 
     "Starlight_:_Kunzite" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starlight_:_Kunzite", 
         "Name" : "Starlight : Kunzite", 
         "rarity" : [
             1000000, 
@@ -2742,7 +2804,6 @@
         "native" : "STARFALL"
     }, 
     "StarRider" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/StarRider", 
         "Name" : "StarRider", 
         "rarity" : [
             50000, 
@@ -2751,28 +2812,24 @@
         "native" : "STARFALL"
     }, 
     "StarRider_:_Snowflake" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/StarRider_:_Snowflake", 
         "Name" : "StarRider : Snowflake", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "StarRider_:_Starfish" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/StarRider_:_Starfish", 
         "Name" : "StarRider : Starfish", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "StarRider_:_yourdidit" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/StarRider_:_yourdidit", 
         "Name" : "StarRider : yourdidit", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Starscourge" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starscourge", 
         "Name" : "Starscourge", 
         "rarity" : [
             10000000, 
@@ -2782,7 +2839,6 @@
         "Title" : "STARSCOURGE"
     }, 
     "Starscourge_:_Radiant" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starscourge_:_Radiant", 
         "Name" : "Starscourge : Radiant", 
         "rarity" : [
             100000000, 
@@ -2791,14 +2847,12 @@
         "native" : "STARFALL"
     }, 
     "Stellar" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Stellar", 
         "Name" : "Stellar", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Stormal" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Stormal", 
         "Name" : "Stormal", 
         "rarity" : [
             90000, 
@@ -2807,7 +2861,6 @@
         "native" : "WINDY"
     }, 
     "Stormal_:_Hurricane" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Stormal_:_Hurricane", 
         "Name" : "Stormal : Hurricane", 
         "rarity" : [
             13500000, 
@@ -2816,21 +2869,18 @@
         "native" : "WINDY"
     }, 
     "Surfer" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Surfer", 
         "Name" : "Surfer", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Surfer_:_Symphony" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Surfer_:_Symphony", 
         "Name" : "Surfer : Symphony", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Symbiosis" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Symbiosis", 
         "Name" : "Symbiosis", 
         "rarity" : [
             1331201, 
@@ -2839,42 +2889,36 @@
         "native" : "CORRUPTION"
     }, 
     "Symphony" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Symphony", 
         "Name" : "Symphony", 
         "rarity" : [
             175000000
         ]
     }, 
     "Symphony_:_Bloomed" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Symphony_:_Bloomed", 
         "Name" : "Symphony : Bloomed", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Terror" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Terror", 
         "Name" : "Terror", 
         "rarity" : [
             400000
         ]
     }, 
     "Thaneborne" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Thaneborne", 
         "Name" : "Thaneborne", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Topaz" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Topaz", 
         "Name" : "Topaz", 
         "rarity" : [
             150
         ]
     }, 
     "Twilight" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Twilight", 
         "Name" : "Twilight", 
         "rarity" : [
             6000000, 
@@ -2883,7 +2927,6 @@
         "native" : "NIGHTTIME"
     }, 
     "Twilight_:_Iridescent_Memory" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Twilight_:_Iridescent_Memory", 
         "Name" : "Twilight : Iridescent Memory", 
         "rarity" : [
             60000000, 
@@ -2892,14 +2935,12 @@
         "native" : "NIGHTTIME"
     }, 
     "Twilight_:_Viridescent_Memory" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Twilight_:_Viridescent_Memory", 
         "Name" : "Twilight : Viridescent Memory", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Twilight_:_Withering_Grace" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Twilight_:_Withering_Grace", 
         "Name" : "Twilight : Withering Grace", 
         "rarity" : [
             180000000, 
@@ -2908,14 +2949,12 @@
         "native" : "NIGHTTIME"
     }, 
     "Uncommon" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Uncommon", 
         "Name" : "Uncommon", 
         "rarity" : [
             4
         ]
     }, 
     "Undead" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Undead", 
         "Name" : "Undead", 
         "rarity" : [
             12000, 
@@ -2924,7 +2963,6 @@
         "native" : "HELL"
     }, 
     "Undead_:_Devil" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Undead_:_Devil", 
         "Name" : "Undead : Devil", 
         "rarity" : [
             666666, 
@@ -2933,7 +2971,6 @@
         "native" : "HELL"
     }, 
     "Undefined" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Undefined", 
         "Name" : "Undefined", 
         "rarity" : [
             1111000, 
@@ -2942,14 +2979,12 @@
         "native" : "NULL|LIMBO"
     }, 
     "Undefined_:_Defined" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Undefined_:_Defined", 
         "Name" : "Undefined : Defined", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Unknown" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Unknown", 
         "Name" : "Unknown", 
         "rarity" : [
             "Unobtainable", 
@@ -2959,7 +2994,6 @@
         "Title" : "�unknown�"
     }, 
     "Vega" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Vega", 
         "Name" : "Vega", 
         "rarity" : [
             "Unobtainable", 
@@ -2968,28 +3002,24 @@
         "native" : "SINGULARITY"
     }, 
     "Veinweaver" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Veinweaver", 
         "Name" : "Veinweaver", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Velocity" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Velocity", 
         "Name" : "Velocity", 
         "rarity" : [
             7630000
         ]
     }, 
     "Velvet" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Velvet", 
         "Name" : "Velvet", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Verdict" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Verdict", 
         "Name" : "Verdict", 
         "rarity" : [
             700000
@@ -2998,14 +3028,12 @@
         "Title" : "VERDICT"
     }, 
     "Very_Small_Sewage_Rat_That's_About_3.082_Studs_Long" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Very_Small_Sewage_Rat_That's_About_3.082_Studs_Long", 
         "Name" : "Very Small Sewage Rat That's About 3.082 Studs Long", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Virtual" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Virtual", 
         "Name" : "Virtual", 
         "rarity" : [
             2500000, 
@@ -3014,7 +3042,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Virtual_:_Fatal_Error" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Virtual_:_Fatal_Error", 
         "Name" : "Virtual : Fatal Error", 
         "rarity" : [
             40413000, 
@@ -3023,7 +3050,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Virtual_:_Full_Control" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Virtual_:_Full_Control", 
         "Name" : "Virtual : Full Control", 
         "rarity" : [
             80000000, 
@@ -3032,7 +3058,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Virtual_:_WorldWide" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Virtual_:_WorldWide", 
         "Name" : "Virtual : WorldWide", 
         "rarity" : [
             87500000, 
@@ -3041,7 +3066,6 @@
         "native" : "CYBERSPACE"
     }, 
     "Virtual_Memory" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Virtual_Memory", 
         "Name" : "Virtual Memory", 
         "rarity" : [
             232232232, 
@@ -3050,42 +3074,36 @@
         "native" : "CYBERSPACE"
     }, 
     "Vital" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Vital", 
         "Name" : "Vital", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Warlock" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Warlock", 
         "Name" : "Warlock", 
         "rarity" : [
             666000
         ]
     }, 
     "Watermelon" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Watermelon", 
         "Name" : "Watermelon", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Watt" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Watt", 
         "Name" : "Watt", 
         "rarity" : [
             32768
         ]
     }, 
     "Werewolf" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Werewolf", 
         "Name" : "Werewolf", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Wind" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Wind", 
         "Name" : "Wind", 
         "rarity" : [
             900, 
@@ -3094,49 +3112,42 @@
         "native" : "WINDY"
     }, 
     "Windy_Egg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Windy_Egg", 
         "Name" : "Windy Egg", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Winter_Fantasy" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Winter_Fantasy", 
         "Name" : "Winter Fantasy", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Winter_Garden" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Winter_Garden", 
         "Name" : "Winter Garden", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Wonderland" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Wonderland", 
         "Name" : "Wonderland", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Workshop" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Workshop", 
         "Name" : "Workshop", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Workshop_:_System" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Workshop_:_System", 
         "Name" : "Workshop : System", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Wraith" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Wraith", 
         "Name" : "Wraith", 
         "rarity" : [
             4100000
@@ -3144,7 +3155,6 @@
         "Title" : "WRAITH"
     }, 
     "Wraithlight" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Wraithlight", 
         "Name" : "Wraithlight", 
         "rarity" : [
             "Unobtainable"
@@ -3152,7 +3162,6 @@
         "Title" : "W:R:A:I:T:H / L:I:G:H:T"
     }, 
     "Yolkegg" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Yolkegg", 
         "Name" : "Yolkegg", 
         "rarity" : [
             "Unobtainable"
@@ -3160,28 +3169,24 @@
         "Title" : "Y.O.L.K.E.G.G."
     }, 
     "Yuyo" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Yuyo", 
         "Name" : "Yuyo", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "Zeus" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Zeus", 
         "Name" : "Zeus", 
         "rarity" : [
             4500000
         ]
     }, 
     "Zilch" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Zilch", 
         "Name" : "Zilch", 
         "rarity" : [
             "Unobtainable"
         ]
     }, 
     "★" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/%E2%98%85", 
         "Name" : "★", 
         "rarity" : [
             "Unobtainable", 
@@ -3190,7 +3195,6 @@
         "native" : "DREAMSPACE"
     }, 
     "★★" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/%E2%98%85%E2%98%85", 
         "Name" : "★★", 
         "rarity" : [
             "Unobtainable", 
@@ -3199,7 +3203,6 @@
         "native" : "DREAMSPACE"
     }, 
     "★★★" : {
-        "fandom_wiki" : "https://sol-rng.fandom.com/wiki/%E2%98%85%E2%98%85%E2%98%85", 
         "Name" : "★★★", 
         "rarity" : [
             "Unobtainable", 
