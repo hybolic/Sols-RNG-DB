@@ -1,0 +1,107 @@
+{
+    "Biomes":{
+        "NORMAL":{},
+        "WINDY":
+        {
+            "chance":500,
+            "duration":120,
+            "item":"Wind Essence"
+        },
+        "SNOWY":
+        {
+            "chance":600,
+            "duration":120,
+            "item":"Icicle"
+        },
+        "RAINY":
+        {
+            "chance":750,
+            "duration":120,
+            "item":"Rainy Bottle"
+        },
+        "SANDSTORM":
+        {
+            "chance":3000,
+            "duration":650,
+            "item":"Hour Glass"
+        },
+        "HELL":
+        {
+            "chance":6666,
+            "duration":666,
+            "item":"Eternal Flame"
+        },
+        "STARFALL":
+        {
+            "chance":7500,
+            "duration":600,
+            "item":"Piece of Star"
+        },
+        "HEAVEN":
+        {
+            "chance":7777,
+            "duration":240,
+            "item":"Feather Vial"
+        },
+        "CORRUPTION":
+        {
+            "chance":9000,
+            "duration":650,
+            "item":"Curruptaine"
+        },
+        "NULL":
+        {
+            "chance":10100,
+            "duration":99,
+            "item":"NULL?"
+        },
+        "DREAMSPACE":
+        {
+            "chance":3500000,
+            "duration":192
+        },
+        "GLITCHED":
+        {
+            "chance":30000,
+            "duration":164,
+            "requirments":"Replaces other biomes spawn"
+        },
+        "CYBERSPACE":
+        {
+            "chance":5000,
+            "duration":720,
+            "requirments":"Use of Strange Controller or Biome Randomiser"
+        },
+        "SINGULARITY":
+        {
+            "chance":100,
+            "duration":1200,
+            "requirments": "Replace's Starfull or Player Uses Singularity Catalyst"
+        },
+        "[ THE HYPERSPACE REALM ]":
+        {
+            "chance":"None",
+            "duration": 3600,
+            "requirments": "Spawned by ANOTHER REALM aura or Admin Abuse"
+        },
+        "THE NULL EXISTENCE":
+        {
+            "chance":"None",
+            "duration": 3600,
+            "requirments": "Spawned by MASTERMIND aura or Admin Abuse"
+        },
+        "THE CITADEL OF ORDERS":
+        {
+            "chance":"None",
+            "duration": 3600,
+            "requirments": "Spawned by EDICT aura or Admin Abuse"
+        },
+        "[ 赤い満月 ]":
+        {
+            "chance":"None",
+            "duration": 3600,
+            "requirments": "Spawned by 赤い満月 aura or Admin Abuse"
+        }
+    },
+    "Time":["DAYTIME","NIGHTTIME"]
+}

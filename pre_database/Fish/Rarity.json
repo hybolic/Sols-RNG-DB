@@ -1,0 +1,18 @@
+{
+    "Common":
+    {
+        "multiplier":1
+    },
+    "Uncommon":
+    {
+        "multiplier":1.5
+    },
+    "Rare":
+    {
+        "multiplier":2
+    },
+    "Legendary":
+    {
+        "multiplier":2.5
+    }
+}
