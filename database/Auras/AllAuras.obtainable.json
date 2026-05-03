@@ -5,13 +5,7 @@
             400000000, 
             100000000
         ], 
-        "native" : "RAINY", 
-        "Ability" : {
-            "Form Shift" : {
-                "Button" : "X", 
-                "Description" : "Switch between Shifter, Juggernaut and Destroyer Forms"
-            }
-        }
+        "native" : "RAINY"
     }, 
     "Aegis" : {
         "Name" : "Aegis", 
@@ -19,13 +13,7 @@
             825000000, 
             412500000
         ], 
-        "native" : "CYBERSPACE", 
-        "Ability" : {
-            "Obliterate" : {
-                "Button" : "X", 
-                "Damage" : true
-            }
-        }
+        "native" : "CYBERSPACE"
     }, 
     "Aether" : {
         "Name" : "Aether", 
@@ -81,8 +69,7 @@
         "Name" : "Apotheosis", 
         "rarity" : [
             24691356
-        ], 
-        "Title" : "APOTHEOSIS"
+        ]
     }, 
     "Aquamarine" : {
         "Name" : "Aquamarine", 
@@ -114,34 +101,19 @@
         "Name" : "Arcane", 
         "rarity" : [
             1000000
-        ], 
-        "Ability" : {
-            "Teleport" : {
-                "Button" : "X"
-            }
-        }
+        ]
     }, 
     "Arcane_:_Dark" : {
         "Name" : "Arcane : Dark", 
         "rarity" : [
             30000000
-        ], 
-        "Ability" : {
-            "Teleport" : {
-                "Button" : "X"
-            }
-        }
+        ]
     }, 
     "Arcane_:_Legacy" : {
         "Name" : "Arcane : Legacy", 
         "rarity" : [
             15000000
-        ], 
-        "Ability" : {
-            "Teleport" : {
-                "Button" : "X"
-            }
-        }
+        ]
     }, 
     "Archangel" : {
         "Name" : "Archangel", 
@@ -149,13 +121,7 @@
             350000000, 
             70000000
         ], 
-        "native" : "HEAVEN", 
-        "Ability" : {
-            "Holy Slash" : {
-                "Button" : "X", 
-                "Damage" : true
-            }
-        }
+        "native" : "HEAVEN"
     }, 
     "Archmage" : {
         "Name" : "Archmage", 
@@ -215,8 +181,7 @@
             "Unobtainable", 
             6117186
         ], 
-        "native" : "SINGULARITY", 
-        "Title" : "ASTRONAUT"
+        "native" : "SINGULARITY"
     }, 
     "Atlas" : {
         "Name" : "Atlas", 
@@ -224,8 +189,7 @@
             360000000, 
             90000000
         ], 
-        "native" : "SANDSTORM", 
-        "Title" : "ATLAS"
+        "native" : "SANDSTORM"
     }, 
     "Atlas_:_A.T.L.A.S." : {
         "Name" : "Atlas : A.T.L.A.S.", 
@@ -256,8 +220,7 @@
         "rarity" : [
             "Unobtainable"
         ], 
-        "native" : "THE CITADEL OF ORDERS", 
-        "Title" : "ATTORNEY"
+        "native" : "THE CITADEL OF ORDERS"
     }, 
     "Aviator" : {
         "Name" : "Aviator", 
@@ -287,13 +250,7 @@
             300000000, 
             50000000
         ], 
-        "native" : "HELL", 
-        "Ability" : {
-            "Bloodthirst" : {
-                "Button" : "X", 
-                "Damage" : true
-            }
-        }
+        "native" : "HELL"
     }, 
     "Borealis" : {
         "Name" : "Borealis", 
@@ -340,13 +297,7 @@
         "rarity" : [
             7000000
         ], 
-        "TItle" : "« CELESTIAL ✰ DIVINE »", 
-        "Ability" : {
-            "Divine Halo" : {
-                "Button" : "X", 
-                "Damage" : true
-            }
-        }
+        "TItle" : "« CELESTIAL ✰ DIVINE »"
     }, 
     "Celestial_:_Eclipse" : {
         "Name" : "Celestial : Eclipse", 
@@ -372,8 +323,7 @@
             "Unobtainable", 
             25000000
         ], 
-        "native" : "SINGULARITY", 
-        "Title" : "CENTURION"
+        "native" : "SINGULARITY"
     }, 
     "Chillsear" : {
         "Name" : "Chillsear", 
@@ -381,8 +331,7 @@
             375000000, 
             125000000
         ], 
-        "native" : "SNOWY", 
-        "Title" : "CHILLSEAR"
+        "native" : "SNOWY"
     }, 
     "Chromatic" : {
         "Name" : "Chromatic", 
@@ -394,13 +343,7 @@
         "Name" : "Chromatic : Genesis", 
         "rarity" : [
             99999999
-        ], 
-        "Ability" : {
-            "Divine Impact" : {
-                "Button" : "X", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Chromatic_:_Hyper" : {
         "Name" : "Chromatic : Hyper", 
@@ -421,13 +364,7 @@
         "rarity" : [
             3999
         ], 
-        "TItle" : "> Cola <", 
-        "Ability" : {
-            "Drink" : {
-                "Button" : "X", 
-                "Description" : "Heals Player for 15hp"
-            }
-        }
+        "TItle" : "> Cola <"
     }, 
     "Comet" : {
         "Name" : "Comet", 
@@ -469,30 +406,13 @@
         "Name" : "Cosmos", 
         "rarity" : [
             1520000
-        ], 
-        "Ability" : {
-            "Claws of Galaxy" : {
-                "Button" : "X", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Cosmos_:_Alice" : {
         "Name" : "Cosmos : Alice", 
         "rarity" : [
             3500000
-        ], 
-        "Title" : "《 Alice 》", 
-        "Ability" : {
-            "Tidal Rush" : {
-                "Button" : "F", 
-                "Damage" : true
-            }, 
-            "Vertical Waves" : {
-                "Button" : "E", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Crystallized" : {
         "Name" : "Crystallized", 
@@ -576,8 +496,7 @@
             "Unobtainable", 
             850000000
         ], 
-        "native" : "LIMBO", 
-        "Title" : "dreamscape"
+        "native" : "LIMBO"
     }, 
     "Eclipse" : {
         "Name" : "Eclipse", 
@@ -611,23 +530,7 @@
         "Name" : "Equinox", 
         "rarity" : [
             2500000000
-        ], 
-        "Title" : "『EQUINOX』", 
-        "Ability" : {
-            "Release" : {
-                "Button" : "E", 
-                "Damage" : true
-            }, 
-            "Confiscation" : {
-                "Button" : "T", 
-                "Damage" : true, 
-                "Description" : "Heals User"
-            }, 
-            "Extinction" : {
-                "Button" : "R", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Ethereal" : {
         "Name" : "Ethereal", 
@@ -653,17 +556,7 @@
         "Name" : "Exotic : Apex", 
         "rarity" : [
             49999500
-        ], 
-        "Ability" : {
-            "Predator's Hunt" : {
-                "Button" : "F", 
-                "Damage" : true
-            }, 
-            "Apex Rush" : {
-                "Button" : "E", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Exotic_:_Void" : {
         "Name" : "Exotic : Void", 
@@ -677,8 +570,7 @@
             7250000, 
             1450000
         ], 
-        "native" : "HEAVEN", 
-        "Title" : "+Faith+"
+        "native" : "HEAVEN"
     }, 
     "Fault" : {
         "Name" : "Fault", 
@@ -734,8 +626,7 @@
         "Name" : "Flushed", 
         "rarity" : [
             6900
-        ], 
-        "Title" : ":Flushed:"
+        ]
     }, 
     "Flushed_:_Lobotomy" : {
         "Name" : "Flushed : Lobotomy", 
@@ -807,17 +698,7 @@
         "Name" : "Glock", 
         "rarity" : [
             1700
-        ], 
-        "Ability" : {
-            "Shoot" : {
-                "Button" : "F", 
-                "Damage" : true
-            }, 
-            "Melee" : {
-                "Button" : "E", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Good" : {
         "Name" : "Good", 
@@ -831,8 +712,7 @@
             "Unobtainable", 
             1000001
         ], 
-        "native" : "LIMBO", 
-        "Title" : "ゴシック"
+        "native" : "LIMBO"
     }, 
     "Gravitational" : {
         "Name" : "Gravitational", 
@@ -844,8 +724,7 @@
         "Name" : "Guardian", 
         "rarity" : [
             10000000
-        ], 
-        "Title" : "GUARDIAN"
+        ]
     }, 
     "Hades" : {
         "Name" : "Hades", 
@@ -853,13 +732,7 @@
             6666666, 
             1111111
         ], 
-        "native" : "HELL", 
-        "Ability" : {
-            "Breathe of Flames" : {
-                "Button" : "F", 
-                "Damage" : true
-            }
-        }
+        "native" : "HELL"
     }, 
     "Harnessed" : {
         "Name" : "Harnessed", 
@@ -871,14 +744,7 @@
         "Name" : "Harnessed : Elements", 
         "rarity" : [
             85000000
-        ], 
-        "Title" : "⌊ HARNESSED : ELEMENTS ⌉", 
-        "Ability" : {
-            "Elemental Shift" : {
-                "Button" : "X", 
-                "Description" : "Changes Forms to Lightning, Fire, Snowy and Nature"
-            }
-        }
+        ]
     }, 
     "Hazard" : {
         "Name" : "Hazard", 
@@ -940,8 +806,7 @@
             15660000, 
             3132000
         ], 
-        "native" : "HEAVEN", 
-        "Title" : "ICARUS"
+        "native" : "HEAVEN"
     }, 
     "Illusionary" : {
         "Name" : "Illusionary", 
@@ -949,26 +814,7 @@
             "Unobtainable", 
             10000000
         ], 
-        "native" : "CYBERSPACE", 
-        "Title" : "illusionary", 
-        "Ability" : {
-            "you are a puppet." : {
-                "Button" : "V", 
-                "Damage" : true
-            }, 
-            "you belong here." : {
-                "Button" : "F", 
-                "Damage" : true
-            }, 
-            "wake up." : {
-                "Button" : "E", 
-                "Damage" : true
-            }, 
-            "no, not yet." : {
-                "Button" : "R", 
-                "Damage" : true
-            }
-        }
+        "native" : "CYBERSPACE"
     }, 
     "Impeached" : {
         "Name" : "Impeached", 
@@ -976,14 +822,7 @@
             200000000, 
             40000000
         ], 
-        "native" : "CORRUPTION", 
-        "Title" : "IMPEACHED", 
-        "Ability" : {
-            "Corrupted Greatsword" : {
-                "Button" : "F", 
-                "Damage" : true
-            }
-        }
+        "native" : "CORRUPTION"
     }, 
     "Ink" : {
         "Name" : "Ink", 
@@ -995,20 +834,7 @@
         "Name" : "Ink : Leak", 
         "rarity" : [
             14000
-        ], 
-        "Ability" : {
-            "Splash SLash" : {
-                "Button" : "F", 
-                "Damage" : true
-            }, 
-            "Ink Blaster" : {
-                "Button" : "X", 
-                "Damage" : true
-            }, 
-            "Dyed-n-Seek" : {
-                "Button" : "R"
-            }
-        }
+        ]
     }, 
     "Jackpot" : {
         "Name" : "Jackpot", 
@@ -1034,16 +860,14 @@
         "Name" : "Jazz : Orchestra", 
         "rarity" : [
             336870912
-        ], 
-        "Title" : "♩ Orchestra ♩"
+        ]
     }, 
     "Juxtaposition" : {
         "Name" : "Juxtaposition", 
         "rarity" : [
             40440400
         ], 
-        "native" : "LIMBO", 
-        "Title" : "{J u x t a p o s i t i o n}"
+        "native" : "LIMBO"
     }, 
     "Kawaii" : {
         "Name" : "Kawaii", 
@@ -1067,8 +891,7 @@
         "Name" : "Lantern", 
         "rarity" : [
             333333
-        ], 
-        "Title" : "- Lantern -"
+        ]
     }, 
     "Leviathan" : {
         "Name" : "Leviathan", 
@@ -1110,36 +933,13 @@
             220000000, 
             55000000
         ], 
-        "native" : "RAINY", 
-        "Title" : "~ Lumenpool ~"
+        "native" : "RAINY"
     }, 
     "Luminosity" : {
         "Name" : "Luminosity", 
         "rarity" : [
             1200000000
-        ], 
-        "Title" : "[ LUMINOSITY ]", 
-        "Ability" : {
-            "Blinding Witness" : {
-                "Button" : "F", 
-                "Damage" : true
-            }, 
-            "Prism" : {
-                "Button" : "T", 
-                "Damage" : true
-            }, 
-            "Lightspeed" : {
-                "Button" : "Q"
-            }, 
-            "Brilliance" : {
-                "Button" : "R", 
-                "Damage" : true
-            }, 
-            "Annihilate" : {
-                "Button" : "E", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Lunar" : {
         "Name" : "Lunar", 
@@ -1239,16 +1039,7 @@
         "rarity" : [
             100
         ], 
-        "native" : "Oblivion Effect", 
-        "Ability" : {
-            "Memory of Fighter" : {
-                "Button" : "F", 
-                "Damage" : true
-            }, 
-            "Memory of Swordman" : {
-                "Button" : "E"
-            }
-        }
+        "native" : "Oblivion Effect"
     }, 
     "Metabytes" : {
         "Name" : "Metabytes", 
@@ -1256,18 +1047,7 @@
             4000000, 
             2000000
         ], 
-        "native" : "CYBERSPACE", 
-        "Title" : "METABYTES", 
-        "Ability" : {
-            "MetaCharge" : {
-                "Button" : "F", 
-                "Damage" : true
-            }, 
-            "VirtualPunch" : {
-                "Button" : "E", 
-                "Damage" : true
-            }
-        }
+        "native" : "CYBERSPACE"
     }, 
     "Monarch" : {
         "Name" : "Monarch", 
@@ -1300,13 +1080,7 @@
         "rarity" : [
             1000
         ], 
-        "native" : "Potion of the Dunes Effect", 
-        "Ability" : {
-            "Earthquake" : {
-                "Button" : "F", 
-                "Damage" : true
-            }
-        }
+        "native" : "Potion of the Dunes Effect"
     }, 
     "Nihility" : {
         "Name" : "Nihility", 
@@ -1335,14 +1109,7 @@
         "rarity" : [
             2000
         ], 
-        "native" : "Oblivion Effect", 
-        "Title" : "OBLIVION", 
-        "Ability" : {
-            "Scream" : {
-                "Button" : "X", 
-                "Damage" : true
-            }
-        }
+        "native" : "Oblivion Effect"
     }, 
     "Oculus" : {
         "Name" : "Oculus", 
@@ -1358,8 +1125,7 @@
             "Unobtainable", 
             220000000
         ], 
-        "native" : "GLITCHED", 
-        "Title" : "[OPPRESSION]"
+        "native" : "GLITCHED"
     }, 
     "Origin" : {
         "Name" : "Origin", 
@@ -1381,8 +1147,7 @@
             8000000, 
             2000000
         ], 
-        "native" : "SANDSTORM", 
-        "Title" : "OUTLAW"
+        "native" : "SANDSTORM"
     }, 
     "Overseer" : {
         "Name" : "Overseer", 
@@ -1394,24 +1159,13 @@
         "Name" : "Overture", 
         "rarity" : [
             150000000
-        ], 
-        "Ability" : {
-            "Time Stop" : {
-                "Button" : "X"
-            }
-        }
+        ]
     }, 
     "Overture_:_History" : {
         "Name" : "Overture : History", 
         "rarity" : [
             300000000
-        ], 
-        "Title" : "OVERTURE I HISTORY", 
-        "Ability" : {
-            "Time Stop" : {
-                "Button" : "X"
-            }
-        }
+        ]
     }, 
     "Parasite" : {
         "Name" : "Parasite", 
@@ -1441,22 +1195,7 @@
             1073741824, 
             536870912
         ], 
-        "native" : "CYBERSPACE", 
-        "Title" : "▣ PIXELATION ▣", 
-        "Ability" : {
-            "Shoot Command" : {
-                "Button" : "E", 
-                "Damage" : true
-            }, 
-            "Pixelated Edges" : {
-                "Button" : "I", 
-                "Damage" : true
-            }, 
-            "Mania!" : {
-                "Button" : "T", 
-                "Damage" : true
-            }
-        }
+        "native" : "CYBERSPACE"
     }, 
     "Plasma" : {
         "Name" : "Plasma", 
@@ -1538,8 +1277,7 @@
             275649430, 
             55129886
         ], 
-        "native" : "HEAVEN", 
-        "Title" : "PROPHECY"
+        "native" : "HEAVEN"
     }, 
     "Prowler" : {
         "Name" : "Prowler", 
@@ -1579,13 +1317,7 @@
         "Name" : "Rage : Brawler", 
         "rarity" : [
             1280000
-        ], 
-        "Ability" : {
-            "Raging Fist" : {
-                "Button" : "X", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Rage_:_Heated" : {
         "Name" : "Rage : Heated", 
@@ -1637,8 +1369,7 @@
         "Name" : "Ruby : Brimstone", 
         "rarity" : [
             24060000
-        ], 
-        "Title" : "RUBY"
+        ]
     }, 
     "Ruins" : {
         "Name" : "Ruins", 
@@ -1650,24 +1381,13 @@
         "Name" : "Ruins : Withered", 
         "rarity" : [
             800000000
-        ], 
-        "Title" : "⟪-WITHERED-⟫"
+        ]
     }, 
     "Runic" : {
         "Name" : "Runic", 
         "rarity" : [
             50000000
-        ], 
-        "Ability" : {
-            "Runic Burst" : {
-                "Button" : "E", 
-                "Damage" : true
-            }, 
-            "Ancient Pillars" : {
-                "Button" : "F", 
-                "Damage" : true
-            }
-        }
+        ]
     }, 
     "Sailor" : {
         "Name" : "Sailor", 
@@ -1717,8 +1437,7 @@
             10000000, 
             2500000
         ], 
-        "native" : "RAINY", 
-        "Title" : "SHARKYN"
+        "native" : "RAINY"
     }, 
     "Shiftlock" : {
         "Name" : "Shiftlock", 
@@ -1774,8 +1493,7 @@
         "Name" : "Spectraflow", 
         "rarity" : [
             100000000
-        ], 
-        "Title" : "◇ Spectraflow ◇"
+        ]
     }, 
     "Spectre" : {
         "Name" : "Spectre", 
@@ -1829,8 +1547,7 @@
             10000000, 
             2000000
         ], 
-        "native" : "STARFALL", 
-        "Title" : "STARSCOURGE"
+        "native" : "STARFALL"
     }, 
     "Starscourge_:_Radiant" : {
         "Name" : "Starscourge : Radiant", 
@@ -1942,8 +1659,7 @@
             "Unobtainable", 
             444444444
         ], 
-        "native" : "LIMBO", 
-        "Title" : "�unknown�"
+        "native" : "LIMBO"
     }, 
     "Vega" : {
         "Name" : "Vega", 
@@ -1964,8 +1680,7 @@
         "rarity" : [
             700000
         ], 
-        "native" : "THE CITADEL OF ORDERS", 
-        "Title" : "VERDICT"
+        "native" : "THE CITADEL OF ORDERS"
     }, 
     "Virtual" : {
         "Name" : "Virtual", 
@@ -2031,8 +1746,7 @@
         "Name" : "Wraith", 
         "rarity" : [
             4100000
-        ], 
-        "Title" : "WRAITH"
+        ]
     }, 
     "Zeus" : {
         "Name" : "Zeus", 

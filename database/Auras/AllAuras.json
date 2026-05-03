@@ -2923,15 +2923,6 @@
                 "Button" : "E", 
                 "Damage" : true
             }
-        }, 
-        "#TODO CONTINUE HERE" : {
-            "" : "https://sol-rng.fandom.com/wiki/Category:Has_Abilities", 
-            "Ability" : {
-                "Earthquake" : {
-                    "Button" : "F", 
-                    "Damage" : true
-                }
-            }
         }
     }, 
     "Sentinel" : {
@@ -3023,7 +3014,25 @@
         "Name" : "Slaughter", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "SCREAM" : {
+                "Button" : "X", 
+                "Damage" : true
+            }, 
+            "Bloody Slash" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "Final Execution" : {
+                "Button" : "Z", 
+                "Damage" : true
+            }, 
+            "Slash Strike" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Snowball" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Snowball", 
@@ -3062,7 +3071,13 @@
             5000000, 
             500000
         ], 
-        "native" : "DAYTIME"
+        "native" : "DAYTIME", 
+        "Ability" : {
+            "Parray & Slash" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Sophyra" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Sophyra", 
@@ -3106,7 +3121,13 @@
         "Name" : "Spectre", 
         "rarity" : [
             140000
-        ]
+        ], 
+        "Ability" : {
+            "Soul Cutting Slash" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Starborn" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starborn", 
@@ -3186,7 +3207,15 @@
         "Name" : "StarRider : yourdidit", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Title" : "your did it", 
+        "Ability" : {
+            "The Ultimate Absolute Starscourge Masterpiece Overwhelming Supreme Forbidden Calamity Destroyer Attack" : {
+                "Button" : "F", 
+                "Damage" : true, 
+                "Description" : "Deals 1 damage, Cooldown of 10 seconds"
+            }
+        }
     }, 
     "Starscourge" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starscourge", 
@@ -3196,7 +3225,13 @@
             2000000
         ], 
         "native" : "STARFALL", 
-        "Title" : "STARSCOURGE"
+        "Title" : "STARSCOURGE", 
+        "Ability" : {
+            "Starfall" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Starscourge_:_Radiant" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Starscourge_:_Radiant", 
@@ -3205,7 +3240,13 @@
             100000000, 
             20000000
         ], 
-        "native" : "STARFALL"
+        "native" : "STARFALL", 
+        "Ability" : {
+            "Crystal" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Stellar" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Stellar", 
@@ -3260,7 +3301,21 @@
         "Name" : "Symphony", 
         "rarity" : [
             175000000
-        ]
+        ], 
+        "Ability" : {
+            "Resonate" : {
+                "Button" : "F", 
+                "Damage" : true
+            }, 
+            "Deferred Melody" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "Reverberation" : {
+                "Button" : "T", 
+                "Damage" : true
+            }
+        }
     }, 
     "Symphony_:_Bloomed" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Symphony_:_Bloomed", 
@@ -3274,7 +3329,21 @@
         "Name" : "Terror", 
         "rarity" : [
             400000
-        ]
+        ], 
+        "Ability" : {
+            "Slash" : {
+                "Button" : "E", 
+                "Damage" : true
+            }, 
+            "X" : {
+                "Button" : "X", 
+                "Damage" : true
+            }, 
+            "F" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Thaneborne" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Thaneborne", 
@@ -3403,7 +3472,14 @@
         "Name" : "Velvet", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "Sweet Confession" : {
+                "Button" : "E", 
+                "Description" : "Gives Players in radius \"Sweet Delight\" buff for 5 minutes", 
+                "PotionEffect" : "Sweet Delight"
+            }
+        }
     }, 
     "Verdict" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Verdict", 
@@ -3455,7 +3531,16 @@
             87500000, 
             43750000
         ], 
-        "native" : "CYBERSPACE"
+        "native" : "CYBERSPACE", 
+        "Ability" : {
+            "Access" : {
+                "Button" : "P"
+            }, 
+            "SkyBreaker" : {
+                "Button" : "F", 
+                "Damage" : true
+            }
+        }
     }, 
     "Virtual_Memory" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Virtual_Memory", 
@@ -3485,7 +3570,13 @@
         "Name" : "Watermelon", 
         "rarity" : [
             "Unobtainable"
-        ]
+        ], 
+        "Ability" : {
+            "????" : {
+                "Button" : "????", 
+                "Description" : "Plays the meme voice line \"It's the most beautiful thing I've ever seen in my life, it's watermelon, inside a watermelon!\""
+            }
+        }
     }, 
     "Watt" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Watt", 
@@ -3588,7 +3679,13 @@
         "Name" : "Zeus", 
         "rarity" : [
             4500000
-        ]
+        ], 
+        "Ability" : {
+            "X" : {
+                "Button" : "X", 
+                "Damage" : true
+            }
+        }
     }, 
     "Zilch" : {
         "fandom_wiki" : "https://sol-rng.fandom.com/wiki/Zilch", 

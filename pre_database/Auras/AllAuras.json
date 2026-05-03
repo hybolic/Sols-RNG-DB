@@ -6,10 +6,10 @@
             "Unobtainable"
         ],
         "Title": "A fool's experience...",
-        "Ability":{
-            "GET RARE AURA!!!!!!!!!!":{
-                "Button":"X",
-                "Description":"Rolls Miniature versions of Auras"
+        "Ability": {
+            "GET RARE AURA!!!!!!!!!!": {
+                "Button": "X",
+                "Description": "Rolls Miniature versions of Auras"
             }
         }
     },
@@ -35,10 +35,10 @@
             100000000
         ],
         "native": "RAINY",
-        "Ability":{
-            "Form Shift":{
-                "Button":"X",
-                "Description":"Switch between Shifter, Juggernaut and Destroyer Forms"
+        "Ability": {
+            "Form Shift": {
+                "Button": "X",
+                "Description": "Switch between Shifter, Juggernaut and Destroyer Forms"
             }
         }
     },
@@ -57,10 +57,10 @@
             412500000
         ],
         "native": "CYBERSPACE",
-        "Ability":{
-            "Obliterate":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Obliterate": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -70,10 +70,10 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Obliterate":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Obliterate": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -126,7 +126,7 @@
             "Unobtainable",
             5730000
         ],
-        "native":"LIMBO"
+        "native": "LIMBO"
     },
     "Another_Realm": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Another_Realm",
@@ -235,9 +235,9 @@
         "rarity": [
             1000000
         ],
-        "Ability":{
-            "Teleport":{
-                "Button":"X"
+        "Ability": {
+            "Teleport": {
+                "Button": "X"
             }
         }
     },
@@ -247,9 +247,9 @@
         "rarity": [
             30000000
         ],
-        "Ability":{
-            "Teleport":{
-                "Button":"X"
+        "Ability": {
+            "Teleport": {
+                "Button": "X"
             }
         }
     },
@@ -259,9 +259,9 @@
         "rarity": [
             15000000
         ],
-        "Ability":{
-            "Teleport":{
-                "Button":"X"
+        "Ability": {
+            "Teleport": {
+                "Button": "X"
             }
         }
     },
@@ -273,10 +273,10 @@
             70000000
         ],
         "native": "HEAVEN",
-        "Ability":{
-            "Holy Slash":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Holy Slash": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -426,10 +426,10 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Rain of Spear":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Rain of Spear": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -480,10 +480,10 @@
             50000000
         ],
         "native": "HELL",
-        "Ability":{
-            "Bloodthirst":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Bloodthirst": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -493,14 +493,14 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Blooming":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Blooming": {
+                "Button": "X",
+                "Damage": true
             },
-            "Petalwind":{
-                "Button":"Q",
-                "Description":"Teleport"
+            "Petalwind": {
+                "Button": "Q",
+                "Description": "Teleport"
             }
         }
     },
@@ -510,14 +510,14 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Below Zero":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Below Zero": {
+                "Button": "X",
+                "Damage": true
             },
-            "Absolute Zero":{
-                "Button":"Q",
-                "Damage":true
+            "Absolute Zero": {
+                "Button": "Q",
+                "Damage": true
             }
         }
     },
@@ -609,11 +609,11 @@
         "rarity": [
             7000000
         ],
-        "TItle":"« CELESTIAL ✰ DIVINE »",
-        "Ability":{
-            "Divine Halo":{
-                "Button":"X",
-                "Damage":true
+        "TItle": "« CELESTIAL ✰ DIVINE »",
+        "Ability": {
+            "Divine Halo": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -678,10 +678,10 @@
         "rarity": [
             99999999
         ],
-        "Ability":{
-            "Divine Impact":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Divine Impact": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -714,11 +714,11 @@
         "rarity": [
             3999
         ],
-        "TItle":"> Cola <",
-        "Ability":{
-            "Drink":{
-                "Button":"X",
-                "Description":"Heals Player for 15hp"
+        "TItle": "> Cola <",
+        "Ability": {
+            "Drink": {
+                "Button": "X",
+                "Description": "Heals Player for 15hp"
             }
         }
     },
@@ -799,10 +799,10 @@
         "rarity": [
             1520000
         ],
-        "Ability":{
-            "Claws of Galaxy":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Claws of Galaxy": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -812,15 +812,15 @@
         "rarity": [
             3500000
         ],
-        "Title":"《 Alice 》",
-        "Ability":{
-            "Tidal Rush":{
-                "Button":"F",
-                "Damage":true
+        "Title": "《 Alice 》",
+        "Ability": {
+            "Tidal Rush": {
+                "Button": "F",
+                "Damage": true
             },
-            "Vertical Waves":{
-                "Button":"E",
-                "Damage":true
+            "Vertical Waves": {
+                "Button": "E",
+                "Damage": true
             }
         }
     },
@@ -851,18 +851,18 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Frost Combo":{
-                "Button":"Z"
+        "Ability": {
+            "Frost Combo": {
+                "Button": "Z"
             },
-            "Arrow of Frostbite":{
-                "Button":"F"
+            "Arrow of Frostbite": {
+                "Button": "F"
             },
-            "Froststep":{
-                "Button":"Q"
+            "Froststep": {
+                "Button": "Q"
             },
-            "Froststorm Slashes":{
-                "Button":"E"
+            "Froststorm Slashes": {
+                "Button": "E"
             }
         }
     },
@@ -1123,19 +1123,19 @@
             2500000000
         ],
         "Title": "『EQUINOX』",
-        "Ability":{
-            "Release":{
-                "Button":"E",
-                "Damage":true
+        "Ability": {
+            "Release": {
+                "Button": "E",
+                "Damage": true
             },
-            "Confiscation":{
-                "Button":"T",
-                "Damage":true,
-                "Description":"Heals User"
+            "Confiscation": {
+                "Button": "T",
+                "Damage": true,
+                "Description": "Heals User"
             },
-            "Extinction":{
-                "Button":"R",
-                "Damage":true
+            "Extinction": {
+                "Button": "R",
+                "Damage": true
             }
         }
     },
@@ -1191,14 +1191,14 @@
         "rarity": [
             49999500
         ],
-        "Ability":{
-            "Predator's Hunt":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "Predator's Hunt": {
+                "Button": "F",
+                "Damage": true
             },
-            "Apex Rush":{
-                "Button":"E",
-                "Damage":true
+            "Apex Rush": {
+                "Button": "E",
+                "Damage": true
             }
         }
     },
@@ -1350,11 +1350,11 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Title":"+ Frigid +",
-        "Ability":{
-            "Frozen Spikes":{
-                "Button":"X",
-                "Damage":true
+        "Title": "+ Frigid +",
+        "Ability": {
+            "Frozen Spikes": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -1431,14 +1431,14 @@
         "rarity": [
             1700
         ],
-        "Ability":{
-            "Shoot":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "Shoot": {
+                "Button": "F",
+                "Damage": true
             },
-            "Melee":{
-                "Button":"E",
-                "Damage":true
+            "Melee": {
+                "Button": "E",
+                "Damage": true
             }
         }
     },
@@ -1448,10 +1448,10 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Shoot":{
-                "Button":"F",
-                "Description":"Kills Player with 10k damage"
+        "Ability": {
+            "Shoot": {
+                "Button": "F",
+                "Description": "Kills Player with 10k damage"
             }
         }
     },
@@ -1516,10 +1516,10 @@
             1111111
         ],
         "native": "HELL",
-        "Ability":{
-            "Breathe of Flames":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "Breathe of Flames": {
+                "Button": "F",
+                "Damage": true
             }
         }
     },
@@ -1536,11 +1536,11 @@
         "rarity": [
             85000000
         ],
-        "Title":"⌊ HARNESSED : ELEMENTS ⌉",
-        "Ability":{
-            "Elemental Shift":{
-                "Button":"X",
-                "Description":"Changes Forms to Lightning, Fire, Snowy and Nature"
+        "Title": "⌊ HARNESSED : ELEMENTS ⌉",
+        "Ability": {
+            "Elemental Shift": {
+                "Button": "X",
+                "Description": "Changes Forms to Lightning, Fire, Snowy and Nature"
             }
         }
     },
@@ -1659,23 +1659,23 @@
             10000000
         ],
         "native": "CYBERSPACE",
-        "Title":"illusionary",
-        "Ability":{
-            "you are a puppet.":{
-                "Button":"V",
-                "Damage":true
+        "Title": "illusionary",
+        "Ability": {
+            "you are a puppet.": {
+                "Button": "V",
+                "Damage": true
             },
-            "you belong here.":{
-                "Button":"F",
-                "Damage":true
+            "you belong here.": {
+                "Button": "F",
+                "Damage": true
             },
-            "wake up.":{
-                "Button":"E",
-                "Damage":true
+            "wake up.": {
+                "Button": "E",
+                "Damage": true
             },
-            "no, not yet.":{
-                "Button":"R",
-                "Damage":true
+            "no, not yet.": {
+                "Button": "R",
+                "Damage": true
             }
         }
     },
@@ -1688,10 +1688,10 @@
         ],
         "native": "CORRUPTION",
         "Title": "IMPEACHED",
-        "Ability":{
-            "Corrupted Greatsword":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "Corrupted Greatsword": {
+                "Button": "F",
+                "Damage": true
             }
         }
     },
@@ -1702,10 +1702,10 @@
             "Unobtainable"
         ],
         "Title": "i'm peach",
-        "Ability":{
-            "UNKNOWN NAME NEEDS FINDING":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "UNKNOWN NAME NEEDS FINDING": {
+                "Button": "F",
+                "Damage": true
             }
         }
     },
@@ -1716,14 +1716,14 @@
             "Unobtainable"
         ],
         "Title": "IMCRINE",
-        "Ability":{
-            "😭":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "😭": {
+                "Button": "F",
+                "Damage": true
             },
-            "Loudly Crying Face Emoji":{
-                "Button":"F",
-                "Damage":true
+            "Loudly Crying Face Emoji": {
+                "Button": "F",
+                "Damage": true
             }
         }
     },
@@ -1740,17 +1740,17 @@
         "rarity": [
             14000
         ],
-        "Ability":{
-            "Splash SLash":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "Splash SLash": {
+                "Button": "F",
+                "Damage": true
             },
-            "Ink Blaster":{
-                "Button":"X",
-                "Damage":true
+            "Ink Blaster": {
+                "Button": "X",
+                "Damage": true
             },
-            "Dyed-n-Seek":{
-                "Button":"R"
+            "Dyed-n-Seek": {
+                "Button": "R"
             }
         }
     },
@@ -1945,26 +1945,26 @@
         "rarity": [
             1200000000
         ],
-        "Title":"[ LUMINOSITY ]",
-        "Ability":{
-            "Blinding Witness":{
-                "Button":"F",
-                "Damage":true
+        "Title": "[ LUMINOSITY ]",
+        "Ability": {
+            "Blinding Witness": {
+                "Button": "F",
+                "Damage": true
             },
-            "Prism":{
-                "Button":"T",
-                "Damage":true
+            "Prism": {
+                "Button": "T",
+                "Damage": true
             },
-            "Lightspeed":{
-                "Button":"Q"
+            "Lightspeed": {
+                "Button": "Q"
             },
-            "Brilliance":{
-                "Button":"R",
-                "Damage":true
+            "Brilliance": {
+                "Button": "R",
+                "Damage": true
             },
-            "Annihilate":{
-                "Button":"E",
-                "Damage":true
+            "Annihilate": {
+                "Button": "E",
+                "Damage": true
             }
         }
     },
@@ -1999,11 +1999,11 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Title":"Lunar ☾ Nightfall",
-        "Ability":{
-            "Night Impale":{
-                "Button":"F",
-                "Damage":true
+        "Title": "Lunar ☾ Nightfall",
+        "Ability": {
+            "Night Impale": {
+                "Button": "F",
+                "Damage": true
             }
         }
     },
@@ -2130,13 +2130,13 @@
             100
         ],
         "native": "Oblivion Effect",
-        "Ability":{
-            "Memory of Fighter":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "Memory of Fighter": {
+                "Button": "F",
+                "Damage": true
             },
-            "Memory of Swordman":{
-                "Button":"E"
+            "Memory of Swordman": {
+                "Button": "E"
             }
         }
     },
@@ -2148,15 +2148,15 @@
             2000000
         ],
         "native": "CYBERSPACE",
-        "Title":"METABYTES",
-        "Ability":{
-            "MetaCharge":{
-                "Button":"F",
-                "Damage":true
+        "Title": "METABYTES",
+        "Ability": {
+            "MetaCharge": {
+                "Button": "F",
+                "Damage": true
             },
-            "VirtualPunch":{
-                "Button":"E",
-                "Damage":true
+            "VirtualPunch": {
+                "Button": "E",
+                "Damage": true
             }
         }
     },
@@ -2211,10 +2211,10 @@
             1000
         ],
         "native": "Potion of the Dunes Effect",
-        "Ability":{
-            "Earthquake":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "Earthquake": {
+                "Button": "F",
+                "Damage": true
             }
         }
     },
@@ -2279,10 +2279,10 @@
         ],
         "native": "Oblivion Effect",
         "Title": "OBLIVION",
-        "Ability":{
-            "Scream":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Scream": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -2310,7 +2310,7 @@
             220000000
         ],
         "native": "GLITCHED",
-        "Title":"[OPPRESSION]"
+        "Title": "[OPPRESSION]"
     },
     "Origin": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Origin",
@@ -2358,9 +2358,9 @@
         "rarity": [
             150000000
         ],
-        "Ability":{
-            "Time Stop":{
-                "Button":"X"
+        "Ability": {
+            "Time Stop": {
+                "Button": "X"
             }
         }
     },
@@ -2370,10 +2370,10 @@
         "rarity": [
             300000000
         ],
-        "Title":"OVERTURE I HISTORY",
-        "Ability":{
-            "Time Stop":{
-                "Button":"X"
+        "Title": "OVERTURE I HISTORY",
+        "Ability": {
+            "Time Stop": {
+                "Button": "X"
             }
         }
     },
@@ -2392,10 +2392,10 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Rush":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Rush": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -2438,18 +2438,18 @@
         ],
         "native": "CYBERSPACE",
         "Title": "▣ PIXELATION ▣",
-        "Ability":{
-            "Shoot Command":{
-                "Button":"E",
-                "Damage":true
+        "Ability": {
+            "Shoot Command": {
+                "Button": "E",
+                "Damage": true
             },
-            "Pixelated Edges":{
-                "Button":"I",
-                "Damage":true
+            "Pixelated Edges": {
+                "Button": "I",
+                "Damage": true
             },
-            "Mania!":{
-                "Button":"T",
-                "Damage":true
+            "Mania!": {
+                "Button": "T",
+                "Damage": true
             }
         }
     },
@@ -2581,21 +2581,21 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "JumpEvent":{
-                "Button":"F",
-                "Damage":true
+        "Ability": {
+            "JumpEvent": {
+                "Button": "F",
+                "Damage": true
             },
-            "Euruption":{
-                "Button":"E",
-                "Damage":true
+            "Euruption": {
+                "Button": "E",
+                "Damage": true
             },
-            "HealPad":{
-                "Button":"R"
+            "HealPad": {
+                "Button": "R"
             },
-            "DeathBeamFX":{
-                "Button":"X",
-                "Damage":true
+            "DeathBeamFX": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -2659,10 +2659,10 @@
         "rarity": [
             1280000
         ],
-        "Ability":{
-            "Raging Fist":{
-                "Button":"X",
-                "Damage":true
+        "Ability": {
+            "Raging Fist": {
+                "Button": "X",
+                "Damage": true
             }
         }
     },
@@ -2740,22 +2740,22 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "HooveStomp":{
-                "Button":"E",
-                "Damage":true
+        "Ability": {
+            "HooveStomp": {
+                "Button": "E",
+                "Damage": true
             },
-            "BlizzardRush":{
-                "Button":"F",
-                "Damage":true
+            "BlizzardRush": {
+                "Button": "F",
+                "Damage": true
             },
-            "IceCrush":{
-                "Button":"X",
-                "Damage":true
+            "IceCrush": {
+                "Button": "X",
+                "Damage": true
             },
-            "PiercingCold":{
-                "Button":"R",
-                "Damage":true
+            "PiercingCold": {
+                "Button": "R",
+                "Damage": true
             }
         }
     },
@@ -2802,14 +2802,14 @@
         "rarity": [
             50000000
         ],
-        "Ability":{
-            "Runic Burst":{
-                "Button":"E",
-                "Damage":true
+        "Ability": {
+            "Runic Burst": {
+                "Button": "E",
+                "Damage": true
             },
-            "Ancient Pillars":{
-                "Button":"F",
-                "Damage":true
+            "Ancient Pillars": {
+                "Button": "F",
+                "Damage": true
             }
         }
     },
@@ -2853,9 +2853,9 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Sand Wall":{
-                "Button":"E"
+        "Ability": {
+            "Sand Wall": {
+                "Button": "E"
             }
         }
     },
@@ -2907,30 +2907,22 @@
         "rarity": [
             "Unobtainable"
         ],
-        "Ability":{
-            "Dash":{
-                "Button":"F"
+        "Ability": {
+            "Dash": {
+                "Button": "F"
             },
-            "StabScorpion":{
-                "Button":"R",
-                "Damage":true
+            "StabScorpion": {
+                "Button": "R",
+                "Damage": true
             },
-            "Tailswing":{
-                "Button":"X",
-                "Damage":true
+            "Tailswing": {
+                "Button": "X",
+                "Damage": true
             },
-            "Sandstorm Punch":{
-                "Button":"E",
-                "Damage":true
+            "Sandstorm Punch": {
+                "Button": "E",
+                "Damage": true
             }
-        },
-        "#TODO CONTINUE HERE":{"":"https://sol-rng.fandom.com/wiki/Category:Has_Abilities",
-        "Ability":{
-            "Earthquake":{
-                "Button":"F",
-                "Damage":true
-            }
-        }
         }
     },
     "Sentinel": {
@@ -3022,7 +3014,25 @@
         "Name": "Slaughter",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability": {
+            "SCREAM": {
+                "Button": "X",
+                "Damage": true
+            },
+            "Bloody Slash": {
+                "Button": "E",
+                "Damage": true
+            },
+            "Final Execution": {
+                "Button": "Z",
+                "Damage": true
+            },
+            "Slash Strike": {
+                "Button": "F",
+                "Damage": true
+            }
+        }
     },
     "Snowball": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Snowball",
@@ -3061,7 +3071,13 @@
             5000000,
             500000
         ],
-        "native": "DAYTIME"
+        "native": "DAYTIME",
+        "Ability": {
+            "Parray & Slash": {
+                "Button": "F",
+                "Damage": true
+            }
+        }
     },
     "Sophyra": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Sophyra",
@@ -3105,7 +3121,13 @@
         "Name": "Spectre",
         "rarity": [
             140000
-        ]
+        ],
+        "Ability": {
+            "Soul Cutting Slash": {
+                "Button": "F",
+                "Damage": true
+            }
+        }
     },
     "Starborn": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Starborn",
@@ -3185,7 +3207,15 @@
         "Name": "StarRider : yourdidit",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Title": "your did it",
+        "Ability": {
+            "The Ultimate Absolute Starscourge Masterpiece Overwhelming Supreme Forbidden Calamity Destroyer Attack": {
+                "Button": "F",
+                "Damage": true,
+                "Description": "Deals 1 damage, Cooldown of 10 seconds"
+            }
+        }
     },
     "Starscourge": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Starscourge",
@@ -3195,7 +3225,13 @@
             2000000
         ],
         "native": "STARFALL",
-        "Title": "STARSCOURGE"
+        "Title": "STARSCOURGE",
+        "Ability": {
+            "Starfall": {
+                "Button": "F",
+                "Damage": true
+            }
+        }
     },
     "Starscourge_:_Radiant": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Starscourge_:_Radiant",
@@ -3204,7 +3240,13 @@
             100000000,
             20000000
         ],
-        "native": "STARFALL"
+        "native": "STARFALL",
+        "Ability": {
+            "Crystal": {
+                "Button": "F",
+                "Damage": true
+            }
+        }
     },
     "Stellar": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Stellar",
@@ -3259,7 +3301,21 @@
         "Name": "Symphony",
         "rarity": [
             175000000
-        ]
+        ],
+        "Ability": {
+            "Resonate": {
+                "Button": "F",
+                "Damage": true
+            },
+            "Deferred Melody": {
+                "Button": "E",
+                "Damage": true
+            },
+            "Reverberation": {
+                "Button": "T",
+                "Damage": true
+            }
+        }
     },
     "Symphony_:_Bloomed": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Symphony_:_Bloomed",
@@ -3273,7 +3329,21 @@
         "Name": "Terror",
         "rarity": [
             400000
-        ]
+        ],
+        "Ability": {
+            "Slash": {
+                "Button": "E",
+                "Damage": true
+            },
+            "X": {
+                "Button": "X",
+                "Damage": true
+            },
+            "F": {
+                "Button": "F",
+                "Damage": true
+            }
+        }
     },
     "Thaneborne": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Thaneborne",
@@ -3372,7 +3442,7 @@
             444444444
         ],
         "native": "LIMBO",
-        "Title":"�unknown�"
+        "Title": "�unknown�"
     },
     "Vega": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Vega",
@@ -3402,7 +3472,14 @@
         "Name": "Velvet",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability": {
+            "Sweet Confession": {
+                "Button": "E",
+                "Description": "Gives Players in radius \"Sweet Delight\" buff for 5 minutes",
+                "PotionEffect": "Sweet Delight"
+            }
+        }
     },
     "Verdict": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Verdict",
@@ -3454,7 +3531,16 @@
             87500000,
             43750000
         ],
-        "native": "CYBERSPACE"
+        "native": "CYBERSPACE",
+        "Ability": {
+            "Access": {
+                "Button": "P"
+            },
+            "SkyBreaker": {
+                "Button": "F",
+                "Damage": true
+            }
+        }
     },
     "Virtual_Memory": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Virtual_Memory",
@@ -3484,7 +3570,13 @@
         "Name": "Watermelon",
         "rarity": [
             "Unobtainable"
-        ]
+        ],
+        "Ability": {
+            "????": {
+                "Button": "????",
+                "Description": "Plays the meme voice line \"It's the most beautiful thing I've ever seen in my life, it's watermelon, inside a watermelon!\""
+            }
+        }
     },
     "Watt": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Watt",
@@ -3587,7 +3679,13 @@
         "Name": "Zeus",
         "rarity": [
             4500000
-        ]
+        ],
+        "Ability": {
+            "X": {
+                "Button": "X",
+                "Damage": true
+            }
+        }
     },
     "Zilch": {
         "fandom_wiki": "https://sol-rng.fandom.com/wiki/Zilch",
